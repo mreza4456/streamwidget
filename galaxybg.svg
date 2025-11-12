@@ -1,0 +1,1233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="137.802mm" height="25.6834mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 27559.76 5136.56"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#B3B3B3}
+    .fil10 {fill:#F55EFF;fill-rule:nonzero}
+    .fil40 {fill:url(#id0)}
+    .fil54 {fill:url(#id1)}
+    .fil17 {fill:url(#id2)}
+    .fil42 {fill:url(#id3)}
+    .fil32 {fill:url(#id4)}
+    .fil29 {fill:url(#id5)}
+    .fil12 {fill:url(#id6)}
+    .fil58 {fill:url(#id7)}
+    .fil68 {fill:url(#id8)}
+    .fil59 {fill:url(#id9)}
+    .fil57 {fill:url(#id10)}
+    .fil99 {fill:url(#id11)}
+    .fil139 {fill:url(#id12)}
+    .fil28 {fill:url(#id13)}
+    .fil101 {fill:url(#id14)}
+    .fil142 {fill:url(#id15)}
+    .fil120 {fill:url(#id16)}
+    .fil146 {fill:url(#id17)}
+    .fil75 {fill:url(#id18)}
+    .fil141 {fill:url(#id19)}
+    .fil56 {fill:url(#id20)}
+    .fil109 {fill:url(#id21)}
+    .fil50 {fill:url(#id22)}
+    .fil5 {fill:url(#id23)}
+    .fil60 {fill:url(#id24)}
+    .fil20 {fill:url(#id25)}
+    .fil67 {fill:url(#id26)}
+    .fil41 {fill:url(#id27)}
+    .fil136 {fill:url(#id28)}
+    .fil22 {fill:url(#id29)}
+    .fil2 {fill:url(#id30)}
+    .fil61 {fill:url(#id31)}
+    .fil108 {fill:url(#id32)}
+    .fil63 {fill:url(#id33)}
+    .fil124 {fill:url(#id34)}
+    .fil1 {fill:url(#id35)}
+    .fil140 {fill:url(#id36)}
+    .fil64 {fill:url(#id37)}
+    .fil137 {fill:url(#id38)}
+    .fil51 {fill:url(#id39)}
+    .fil45 {fill:url(#id40)}
+    .fil82 {fill:url(#id41)}
+    .fil77 {fill:url(#id42)}
+    .fil72 {fill:url(#id43)}
+    .fil19 {fill:url(#id44)}
+    .fil44 {fill:url(#id45)}
+    .fil79 {fill:url(#id46)}
+    .fil119 {fill:url(#id47)}
+    .fil83 {fill:url(#id48)}
+    .fil39 {fill:url(#id49)}
+    .fil21 {fill:url(#id50)}
+    .fil16 {fill:url(#id51)}
+    .fil3 {fill:url(#id52)}
+    .fil129 {fill:url(#id53)}
+    .fil100 {fill:url(#id54)}
+    .fil121 {fill:url(#id55)}
+    .fil18 {fill:url(#id56)}
+    .fil52 {fill:url(#id57)}
+    .fil144 {fill:url(#id58)}
+    .fil88 {fill:url(#id59)}
+    .fil78 {fill:url(#id60)}
+    .fil74 {fill:url(#id61)}
+    .fil116 {fill:url(#id62)}
+    .fil30 {fill:url(#id63)}
+    .fil85 {fill:url(#id64)}
+    .fil9 {fill:url(#id65)}
+    .fil118 {fill:url(#id66)}
+    .fil55 {fill:url(#id67)}
+    .fil115 {fill:url(#id68)}
+    .fil107 {fill:url(#id69)}
+    .fil94 {fill:url(#id70)}
+    .fil11 {fill:url(#id71)}
+    .fil95 {fill:url(#id72)}
+    .fil80 {fill:url(#id73)}
+    .fil96 {fill:url(#id74)}
+    .fil114 {fill:url(#id75)}
+    .fil23 {fill:url(#id76)}
+    .fil47 {fill:url(#id77)}
+    .fil53 {fill:url(#id78)}
+    .fil37 {fill:url(#id79)}
+    .fil131 {fill:url(#id80)}
+    .fil125 {fill:url(#id81)}
+    .fil38 {fill:url(#id82)}
+    .fil24 {fill:url(#id83)}
+    .fil62 {fill:url(#id84)}
+    .fil15 {fill:url(#id85)}
+    .fil8 {fill:url(#id86)}
+    .fil128 {fill:url(#id87)}
+    .fil148 {fill:url(#id88)}
+    .fil113 {fill:url(#id89)}
+    .fil31 {fill:url(#id90)}
+    .fil102 {fill:url(#id91)}
+    .fil34 {fill:url(#id92)}
+    .fil143 {fill:url(#id93)}
+    .fil127 {fill:url(#id94)}
+    .fil7 {fill:url(#id95)}
+    .fil26 {fill:url(#id96)}
+    .fil14 {fill:url(#id97)}
+    .fil76 {fill:url(#id98)}
+    .fil65 {fill:url(#id99)}
+    .fil147 {fill:url(#id100)}
+    .fil87 {fill:url(#id101)}
+    .fil134 {fill:url(#id102)}
+    .fil66 {fill:url(#id103)}
+    .fil110 {fill:url(#id104)}
+    .fil48 {fill:url(#id105)}
+    .fil133 {fill:url(#id106)}
+    .fil98 {fill:url(#id107)}
+    .fil93 {fill:url(#id108)}
+    .fil117 {fill:url(#id109)}
+    .fil138 {fill:url(#id110)}
+    .fil122 {fill:url(#id111)}
+    .fil103 {fill:url(#id112)}
+    .fil91 {fill:url(#id113)}
+    .fil135 {fill:url(#id114)}
+    .fil25 {fill:url(#id115)}
+    .fil105 {fill:url(#id116)}
+    .fil27 {fill:url(#id117)}
+    .fil90 {fill:url(#id118)}
+    .fil92 {fill:url(#id119)}
+    .fil33 {fill:url(#id120)}
+    .fil6 {fill:url(#id121)}
+    .fil89 {fill:url(#id122)}
+    .fil36 {fill:url(#id123)}
+    .fil73 {fill:url(#id124)}
+    .fil70 {fill:url(#id125)}
+    .fil104 {fill:url(#id126)}
+    .fil43 {fill:url(#id127)}
+    .fil49 {fill:url(#id128)}
+    .fil130 {fill:url(#id129)}
+    .fil86 {fill:url(#id130)}
+    .fil145 {fill:url(#id131)}
+    .fil46 {fill:url(#id132)}
+    .fil111 {fill:url(#id133)}
+    .fil71 {fill:url(#id134)}
+    .fil126 {fill:url(#id135)}
+    .fil97 {fill:url(#id136)}
+    .fil35 {fill:url(#id137)}
+    .fil84 {fill:url(#id138)}
+    .fil81 {fill:url(#id139)}
+    .fil132 {fill:url(#id140)}
+    .fil106 {fill:url(#id141)}
+    .fil123 {fill:url(#id142)}
+    .fil69 {fill:url(#id143)}
+    .fil4 {fill:url(#id144)}
+    .fil13 {fill:url(#id145)}
+    .fil112 {fill:url(#id146)}
+   ]]>
+  </style>
+  <radialGradient id="id0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.26683 0.0681086 -0.2763 0.858749 41906 -931)" cx="18219.2" cy="2192.35" r="23.72" fx="18219.2" fy="2192.35">
+   <stop offset="0" style="stop-opacity:1; stop-color:#FCD1FF"/>
+   <stop offset="0.121569" style="stop-opacity:1; stop-color:#FCD1FF"/>
+   <stop offset="0.972549" style="stop-opacity:1; stop-color:#FBC8FF"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#FBBFFF"/>
+  </radialGradient>
+  <radialGradient id="id1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.131208 -0.843394 -1.14604 0.153298 11924 10461)" xlink:href="#id0" cx="8194.65" cy="4192.16" r="41.54" fx="8194.65" fy="4192.16">
+  </radialGradient>
+  <radialGradient id="id2" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.26693 0.0681624 -0.27635 0.859518 14250 277)" xlink:href="#id0" cx="5707.87" cy="4742.65" r="18.9" fx="5707.87" fy="4742.65">
+  </radialGradient>
+  <radialGradient id="id3" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.03198 0.0572547 -0.224951 0.721492 36220 -140)" xlink:href="#id0" cx="17482.71" cy="3093.13" r="70.74" fx="17482.71" fy="3093.13">
+  </radialGradient>
+  <radialGradient id="id4" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.99421 0.0568845 -0.216808 0.717125 33822 -214)" xlink:href="#id0" cx="16677.55" cy="2598.92" r="36.1" fx="16677.55" fy="2598.92">
+  </radialGradient>
+  <radialGradient id="id5" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.03136 0.0572408 -0.22499 0.721877 24224 540)" xlink:href="#id0" cx="11448.99" cy="4297.9" r="22.48" fx="11448.99" fy="4297.9">
+  </radialGradient>
+  <radialGradient id="id6" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.729247 0.0407003 -0.15909 0.5133 29379 192)" xlink:href="#id0" cx="16823.95" cy="1801.84" r="47.34" fx="16823.95" fy="1801.84">
+  </radialGradient>
+  <radialGradient id="id7" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.26837 0.0683304 -0.276635 0.861544 1528 511)" xlink:href="#id0" cx="210.88" cy="3794.47" r="23.86" fx="210.88" fy="3794.47">
+  </radialGradient>
+  <radialGradient id="id8" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.0038299 -0.695478 -1.05938 0.207663 7352 5312)" xlink:href="#id0" cx="3758.51" cy="3405.44" r="26.96" fx="3758.51" fy="3405.44">
+  </radialGradient>
+  <radialGradient id="id9" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.26954 0.0682786 -0.27689 0.860889 5300 391)" xlink:href="#id0" cx="1879.82" cy="3731.55" r="23.86" fx="1879.82" fy="3731.55">
+  </radialGradient>
+  <radialGradient id="id10" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.03201 0.0572623 -0.225004 0.721734 39940 -578)" xlink:href="#id0" cx="19442.43" cy="1924.88" r="70.72" fx="19442.43" fy="1924.88">
+  </radialGradient>
+  <radialGradient id="id11" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.10427 -0.376792 -0.933098 0.872918 40771 7117)" xlink:href="#id0" cx="17344.84" cy="4578.87" r="25.8" fx="17344.84" fy="4578.87">
+  </radialGradient>
+  <radialGradient id="id12" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.306428 0.902366 1.22111 -0.0432729 10684 -6477)" xlink:href="#id0" cx="12397.91" cy="4514.86" r="29.08" fx="12397.91" fy="4514.86">
+  </radialGradient>
+  <radialGradient id="id13" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.712286 -1.13267 -1.02017 0.195817 42940 28709)" xlink:href="#id0" cx="23676.05" cy="2352.61" r="27.7" fx="23676.05" fy="2352.61">
+  </radialGradient>
+  <radialGradient id="id14" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.329263 0.894232 1.31239 -0.042892 17416 -11208)" xlink:href="#id0" cx="16242.8" cy="3180.87" r="44.48" fx="16242.8" fy="3180.87">
+  </radialGradient>
+  <radialGradient id="id15" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.737558 -0.0379889 0.170238 -0.56688 5226 5625)" xlink:href="#id0" cx="21898.71" cy="3059.11" r="61.6" fx="21898.71" fy="3059.11">
+  </radialGradient>
+  <radialGradient id="id16" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.457866 0.885223 1.17748 -0.0413926 2993 -8690)" xlink:href="#id0" cx="14892.79" cy="4315.26" r="18.86" fx="14892.79" fy="4315.26">
+  </radialGradient>
+  <radialGradient id="id17" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.212 0.0646485 -0.264206 0.814704 38046 -506)" xlink:href="#id0" cx="16824.93" cy="3139.83" r="27" fx="16824.93" fy="3139.83">
+  </radialGradient>
+  <radialGradient id="id18" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00432845 -0.755968 -1.19773 0.225807 12307 8901)" xlink:href="#id0" cx="8419.9" cy="3275.5" r="27.52" fx="8419.9" fy="3275.5">
+  </radialGradient>
+  <radialGradient id="id19" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.83849 -0.0425279 0.193468 -0.634395 2664 6438)" xlink:href="#id0" cx="20574.22" cy="3403.88" r="84.2" fx="20574.22" fy="3403.88">
+  </radialGradient>
+  <radialGradient id="id20" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.26846 0.0682592 -0.276417 0.859908 6181 332)" xlink:href="#id0" cx="2299.81" cy="3488.1" r="23.86" fx="2299.81" fy="3488.1">
+  </radialGradient>
+  <radialGradient id="id21" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.337863 0.922146 1.34637 -0.0442209 15999 -10493)" xlink:href="#id0" cx="16592.21" cy="4604.13" r="20.46" fx="16592.21" fy="4604.13">
+  </radialGradient>
+  <radialGradient id="id22" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.117943 -0.720881 -1.03011 0.131022 8953 7427)" xlink:href="#id0" cx="5409.63" cy="4059.15" r="42.28" fx="5409.63" fy="4059.15">
+  </radialGradient>
+  <radialGradient id="id23" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.756584 0.0451173 -0.164928 0.568568 41234 -271)" xlink:href="#id0" cx="23304.12" cy="1808.14" r="106.08" fx="23304.12" fy="1808.14">
+  </radialGradient>
+  <radialGradient id="id24" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.26768 0.0681657 -0.276541 0.859649 33026 -747)" xlink:href="#id0" cx="14362.47" cy="1651.76" r="15.9" fx="14362.47" fy="1651.76">
+  </radialGradient>
+  <radialGradient id="id25" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.03202 0.0572604 -0.225029 0.721787 42539 -647)" xlink:href="#id0" cx="20719.72" cy="1938.03" r="84" fx="20719.72" fy="1938.03">
+  </radialGradient>
+  <radialGradient id="id26" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00383525 -0.695938 -1.06087 0.2078 23470 16495)" xlink:href="#id0" cx="21506.42" cy="1928.86" r="26.7" fx="21506.42" fy="1928.86">
+  </radialGradient>
+  <radialGradient id="id27" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.25166 0.066649 -0.272875 0.839991 41615 -893)" xlink:href="#id0" cx="18237.94" cy="2013.53" r="60.72" fx="18237.94" fy="2013.53">
+  </radialGradient>
+  <radialGradient id="id28" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.995666 0.0569273 -0.217113 0.717622 25242 203)" xlink:href="#id0" cx="12300.31" cy="3197.95" r="45.74" fx="12300.31" fy="3197.95">
+  </radialGradient>
+  <radialGradient id="id29" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.478503 -0.823434 -0.685248 0.142339 33055 19525)" xlink:href="#id0" cx="21270.99" cy="2342.71" r="83.5" fx="21270.99" fy="2342.71">
+  </radialGradient>
+  <radialGradient id="id30" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.21353 0.0647399 -0.264484 0.815686 38854 -659)" xlink:href="#id0" cx="17255.9" cy="2486.24" r="41.74" fx="17255.9" fy="2486.24">
+  </radialGradient>
+  <radialGradient id="id31" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.0319 0.0572896 -0.224986 0.7221 30857 -285)" xlink:href="#id0" cx="14958.07" cy="2059.33" r="47.46" fx="14958.07" fy="2059.33">
+  </radialGradient>
+  <radialGradient id="id32" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.337291 0.921873 1.34495 -0.0442363 15840 -10379)" xlink:href="#id0" cx="16490.72" cy="4619.23" r="14.88" fx="16490.72" fy="4619.23">
+  </radialGradient>
+  <radialGradient id="id33" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00382718 -0.695142 -1.05889 0.20761 24093 16930)" xlink:href="#id0" cx="21838.49" cy="2207.87" r="43.92" fx="21838.49" fy="2207.87">
+  </radialGradient>
+  <radialGradient id="id34" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.00522979 -0.692928 -1.06297 0.213378 14709 10292)" xlink:href="#id0" cx="11629.55" cy="2839.41" r="37.84" fx="11629.55" fy="2839.41">
+  </radialGradient>
+  <radialGradient id="id35" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.08689 0.0600455 -0.237004 0.756923 44795 -285)" xlink:href="#id0" cx="21008.65" cy="4018.63" r="62.34" fx="21008.65" fy="4018.63">
+  </radialGradient>
+  <radialGradient id="id36" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.30667 0.903053 1.22159 -0.0432884 16073 -10791)" xlink:href="#id0" cx="13789.66" cy="1592.56" r="21.64" fx="13789.66" fy="1592.56">
+  </radialGradient>
+  <radialGradient id="id37" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00433652 -0.757325 -1.19949 0.226116 7529 5220)" xlink:href="#id0" cx="3156.77" cy="3656.16" r="41.28" fx="3156.77" fy="3656.16">
+  </radialGradient>
+  <radialGradient id="id38" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.30609 0.902157 1.2194 -0.0432499 11814 -7418)" xlink:href="#id0" cx="12494.31" cy="3694.49" r="29.08" fx="12494.31" fy="3694.49">
+  </radialGradient>
+  <radialGradient id="id39" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.118122 -0.721844 -1.03144 0.131166 8954 7423)" xlink:href="#id0" cx="5682.53" cy="3822.57" r="42.26" fx="5682.53" fy="3822.57">
+  </radialGradient>
+  <radialGradient id="id40" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.843129 -0.0428281 0.194698 -0.639395 623 6693)" xlink:href="#id0" cx="8754.96" cy="3854.07" r="22.44" fx="8754.96" fy="3854.07">
+  </radialGradient>
+  <radialGradient id="id41" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.06503 0.0587822 -0.232187 0.740843 8724 953)" xlink:href="#id0" cx="3716.21" cy="4520.16" r="63.64" fx="3716.21" fy="4520.16">
+  </radialGradient>
+  <radialGradient id="id42" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00383398 -0.695413 -1.06056 0.207644 13154 9359)" xlink:href="#id0" cx="9592.66" cy="3392.2" r="23.02" fx="9592.66" fy="3392.2">
+  </radialGradient>
+  <radialGradient id="id43" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.27384 0.0683938 -0.277528 0.861416 19575 -66)" xlink:href="#id0" cx="8174.33" cy="3559.4" r="15.86" fx="8174.33" fy="3559.4">
+  </radialGradient>
+  <radialGradient id="id44" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.25142 0.0666475 -0.272759 0.839778 17697 60)" xlink:href="#id0" cx="7440.07" cy="3469.94" r="48.42" fx="7440.07" fy="3469.94">
+  </radialGradient>
+  <radialGradient id="id45" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.737598 -0.0379843 0.170267 -0.566876 1640 6852)" xlink:href="#id0" cx="8948.45" cy="4156.32" r="41.34" fx="8948.45" fy="4156.32">
+  </radialGradient>
+  <radialGradient id="id46" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00383783 -0.695138 -1.06161 0.207561 10439 7444)" xlink:href="#id0" cx="7183.03" cy="3093.21" r="38.26" fx="7183.03" fy="3093.21">
+  </radialGradient>
+  <radialGradient id="id47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.836593 -0.732249 -0.706402 0.444845 27167 11621)" xlink:href="#id0" cx="13681.7" cy="2887.29" r="31.92" fx="13681.7" fy="2887.29">
+  </radialGradient>
+  <radialGradient id="id48" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.21259 0.0647052 -0.264421 0.815686 8662 641)" xlink:href="#id0" cx="3358.32" cy="4656.35" r="41.76" fx="3358.32" fy="4656.35">
+  </radialGradient>
+  <radialGradient id="id49" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.26781 0.0682552 -0.276396 0.860236 40444 -903)" xlink:href="#id0" cx="17574.85" cy="2124.41" r="15.9" fx="17574.85" fy="2124.41">
+  </radialGradient>
+  <radialGradient id="id50" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.06559 0.0587919 -0.232309 0.740965 37357 -436)" xlink:href="#id0" cx="17819.69" cy="2361.69" r="49.36" fx="17819.69" fy="2361.69">
+  </radialGradient>
+  <radialGradient id="id51" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.03168 0.0573154 -0.224851 0.722147 37245 -418)" xlink:href="#id0" cx="18085.82" cy="2226.63" r="33.5" fx="18085.82" fy="2226.63">
+  </radialGradient>
+  <radialGradient id="id52" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.920089 0.0516848 -0.200566 0.65132 35743 198)" xlink:href="#id0" cx="18272.94" cy="3277.18" r="88.18" fx="18272.94" fy="3277.18">
+  </radialGradient>
+  <radialGradient id="id53" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.306141 0.902143 1.21972 -0.0432532 13503 -8849)" xlink:href="#id0" cx="12560.93" cy="2379.94" r="42.12" fx="12560.93" fy="2379.94">
+  </radialGradient>
+  <radialGradient id="id54" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.843355 -0.31392 -0.71203 0.72665 33435 6176)" xlink:href="#id0" cx="16913.83" cy="3169.53" r="30.04" fx="16913.83" fy="3169.53">
+  </radialGradient>
+  <radialGradient id="id55" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.380614 0.787494 0.978402 -0.0368073 4945 -7194)" xlink:href="#id0" cx="14902.51" cy="4380.44" r="12.92" fx="14902.51" fy="4380.44">
+  </radialGradient>
+  <radialGradient id="id56" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.2694 0.0681449 -0.276889 0.859299 15391 231)" xlink:href="#id0" cx="6214.62" cy="4650.07" r="18.9" fx="6214.62" fy="4650.07">
+  </radialGradient>
+  <radialGradient id="id57" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.118016 -0.720931 -1.03106 0.131069 8164 6772)" xlink:href="#id0" cx="4851.53" cy="3768.03" r="42.28" fx="4851.53" fy="3768.03">
+  </radialGradient>
+  <radialGradient id="id58" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.842477 -0.0427166 0.194468 -0.637471 2757 4620)" xlink:href="#id0" cx="20329.63" cy="2290.79" r="22.46" fx="20329.63" fy="2290.79">
+  </radialGradient>
+  <radialGradient id="id59" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.06611 0.0588288 -0.232422 0.741431 32254 296)" xlink:href="#id0" cx="15096.09" cy="4577.71" r="31.86" fx="15096.09" fy="4577.71">
+  </radialGradient>
+  <radialGradient id="id60" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00383428 -0.695915 -1.05997 0.20766 13139 9348)" xlink:href="#id0" cx="9723.61" cy="3257.18" r="23.02" fx="9723.61" fy="3257.18">
+  </radialGradient>
+  <radialGradient id="id61" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00383224 -0.696244 -1.05991 0.207866 13228 9412)" xlink:href="#id0" cx="9839.55" cy="3232.78" r="37.82" fx="9839.55" fy="3232.78">
+  </radialGradient>
+  <radialGradient id="id62" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.824345 -0.676183 -0.695597 0.410512 27668 11467)" xlink:href="#id0" cx="13772.3" cy="3654.54" r="21.42" fx="13772.3" fy="3654.54">
+  </radialGradient>
+  <radialGradient id="id63" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.06545 0.058804 -0.232289 0.741151 41243 -673)" xlink:href="#id0" cx="19755.78" cy="1888.34" r="73.56" fx="19755.78" fy="1888.34">
+  </radialGradient>
+  <radialGradient id="id64" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.00165 0.0586721 -0.218313 0.739265 32915 -373)" xlink:href="#id0" cx="16202.44" cy="2214.09" r="27.48" fx="16202.44" fy="2214.09">
+  </radialGradient>
+  <radialGradient id="id65" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.814659 0.048641 -0.177604 0.613032 15386 1456)" xlink:href="#id0" cx="8012.07" cy="4770.81" r="45.5" fx="8012.07" fy="4770.81">
+  </radialGradient>
+  <radialGradient id="id66" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.12264 -0.951155 -0.94758 0.577618 32117 14385)" xlink:href="#id0" cx="13829" cy="2915.61" r="19.22" fx="13829" fy="2915.61">
+  </radialGradient>
+  <radialGradient id="id67" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.774628 0.0453593 -0.168847 0.571572 34091 65)" xlink:href="#id0" cx="19004.66" cy="2163.21" r="57.08" fx="19004.66" fy="2163.21">
+  </radialGradient>
+  <radialGradient id="id68" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.12077 -0.887821 -0.945979 0.539142 34507 14694)" xlink:href="#id0" cx="14563.12" cy="3829.23" r="24.06" fx="14563.12" fy="3829.23">
+  </radialGradient>
+  <radialGradient id="id69" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.977369 0.645558 1.30402 -0.878186 -5727 -1495)" xlink:href="#id0" cx="15896.47" cy="4668.03" r="11.64" fx="15896.47" fy="4668.03">
+  </radialGradient>
+  <radialGradient id="id70" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.04775 0.385308 0.90759 -0.863703 -4636 393)" xlink:href="#id0" cx="18881.46" cy="4114.72" r="19.46" fx="18881.46" fy="4114.72">
+  </radialGradient>
+  <radialGradient id="id71" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.774494 0.0453639 -0.168848 0.571731 27017 11)" xlink:href="#id0" cx="15070.87" cy="1623.18" r="45.48" fx="15070.87" fy="1623.18">
+  </radialGradient>
+  <radialGradient id="id72" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.04687 0.385875 0.90637 -0.864541 -4750 647)" xlink:href="#id0" cx="18920.72" cy="4262.72" r="19.48" fx="18920.72" fy="4262.72">
+  </radialGradient>
+  <radialGradient id="id73" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.224156 -0.486423 -0.751012 -0.193198 5945 5478)" xlink:href="#id0" cx="5317.68" cy="2423" r="51.62" fx="5317.68" fy="2423">
+  </radialGradient>
+  <radialGradient id="id74" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.04785 0.386213 0.907674 -0.865733 -4523 -91)" xlink:href="#id0" cx="19373.51" cy="3961.45" r="19.46" fx="19373.51" fy="3961.45">
+  </radialGradient>
+  <radialGradient id="id75" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.1212 -0.888243 -0.946329 0.539393 35608 15106)" xlink:href="#id0" cx="15433.12" cy="3034.49" r="35" fx="15433.12" fy="3034.49">
+  </radialGradient>
+  <radialGradient id="id76" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.733454 -1.17341 -1.05044 0.202851 41092 27960)" xlink:href="#id0" cx="22691.21" cy="1673.72" r="54.26" fx="22691.21" fy="1673.72">
+  </radialGradient>
+  <radialGradient id="id77" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.842745 -0.0427231 0.194472 -0.637376 664 6544)" xlink:href="#id0" cx="8880.31" cy="3764.93" r="30.88" fx="8880.31" fy="3764.93">
+  </radialGradient>
+  <radialGradient id="id78" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.109149 -0.700483 -0.952966 0.127269 11342 9427)" xlink:href="#id0" cx="8328.95" cy="4116.2" r="20.16" fx="8328.95" fy="4116.2">
+  </radialGradient>
+  <radialGradient id="id79" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.20197 -0.508911 -0.658375 0.76166 23103 5558)" xlink:href="#id0" cx="9732.65" cy="2539.5" r="50.9" fx="9732.65" fy="2539.5">
+  </radialGradient>
+  <radialGradient id="id80" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.30618 0.902334 1.21997 -0.043266 12902 -8346)" xlink:href="#id0" cx="12520.69" cy="2829.87" r="69.26" fx="12520.69" fy="2829.87">
+  </radialGradient>
+  <radialGradient id="id81" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.730725 -0.386945 -0.797722 -0.93957 7704 12310)" xlink:href="#id0" cx="23980.58" cy="1562.44" r="40.48" fx="23980.58" fy="1562.44">
+  </radialGradient>
+  <radialGradient id="id82" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.814674 0.0486477 -0.17767 0.613334 21246 599)" xlink:href="#id0" cx="11415.39" cy="2985.87" r="49.18" fx="11415.39" fy="2985.87">
+  </radialGradient>
+  <radialGradient id="id83" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.773598 -1.22329 -1.10799 0.211484 43634 30163)" xlink:href="#id0" cx="22865.19" cy="2780.36" r="37.04" fx="22865.19" fy="2780.36">
+  </radialGradient>
+  <radialGradient id="id84" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00400713 -0.724698 -1.1083 0.216361 7199 5152)" xlink:href="#id0" cx="3014.43" cy="3786.17" r="79.44" fx="3014.43" fy="3786.17">
+  </radialGradient>
+  <radialGradient id="id85" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.774693 0.0455593 -0.16908 0.574836 29934 -3)" xlink:href="#id0" cx="16697.65" cy="1781.44" r="27.68" fx="16697.65" fy="1781.44">
+  </radialGradient>
+  <radialGradient id="id86" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.738228 0.041598 -0.160918 0.524192 35773 1013)" xlink:href="#id0" cx="20219.69" cy="3895.91" r="69.48" fx="20219.69" fy="3895.91">
+  </radialGradient>
+  <radialGradient id="id87" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.995883 0.056931 -0.217082 0.717411 26253 -264)" xlink:href="#id0" cx="12970.86" cy="1678.84" r="89" fx="12970.86" fy="1678.84">
+  </radialGradient>
+  <radialGradient id="id88" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.842121 -0.0426982 0.194381 -0.63718 2328 8062)" xlink:href="#id0" cx="20160.43" cy="4398.5" r="58.3" fx="20160.43" fy="4398.5">
+  </radialGradient>
+  <radialGradient id="id89" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.00307 -0.785152 -0.846606 0.47678 31485 13078)" xlink:href="#id0" cx="14092.39" cy="3847.27" r="43.52" fx="14092.39" fy="3847.27">
+  </radialGradient>
+  <radialGradient id="id90" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.00107 0.0586357 -0.218324 0.739265 34179 -329)" xlink:href="#id0" cx="16805.97" cy="2516.9" r="27.48" fx="16805.97" fy="2516.9">
+  </radialGradient>
+  <radialGradient id="id91" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.252443 0.753731 1.00541 -0.0361244 16924 -8782)" xlink:href="#id0" cx="16125.01" cy="3254.1" r="29.12" fx="16125.01" fy="3254.1">
+  </radialGradient>
+  <radialGradient id="id92" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.12284 0.0673731 -0.244792 0.849116 24138 -320)" xlink:href="#id0" cx="11046.32" cy="2813.21" r="74.4" fx="11046.32" fy="2813.21">
+  </radialGradient>
+  <radialGradient id="id93" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.84232 -0.0427542 0.194384 -0.637874 2722 5726)" xlink:href="#id0" cx="20901.71" cy="2950.65" r="125.74" fx="20901.71" fy="2950.65">
+  </radialGradient>
+  <radialGradient id="id94" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.792391 0.690965 0.465084 -0.474544 2926 -9928)" xlink:href="#id0" cx="19919.9" cy="2601.18" r="64.16" fx="19919.9" fy="2601.18">
+  </radialGradient>
+  <radialGradient id="id95" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.02766 0.0575968 -0.223946 0.725598 15144 831)" xlink:href="#id0" cx="6972.72" cy="4491.18" r="40.34" fx="6972.72" fy="4491.18">
+  </radialGradient>
+  <radialGradient id="id96" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.448729 -0.740735 -0.642639 0.128049 17692 11124)" xlink:href="#id0" cx="10515.54" cy="3824.53" r="118.08" fx="10515.54" fy="3824.53">
+  </radialGradient>
+  <radialGradient id="id97" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.774381 0.0454517 -0.168823 0.572837 35101 144)" xlink:href="#id0" cx="19552.27" cy="2417.16" r="69.46" fx="19552.27" fy="2417.16">
+  </radialGradient>
+  <radialGradient id="id98" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.003604 -0.686496 -0.996636 0.204924 8883 6392)" xlink:href="#id0" cx="6410.27" cy="2504.06" r="62.66" fx="6410.27" fy="2504.06">
+  </radialGradient>
+  <radialGradient id="id99" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00360871 -0.686369 -0.998047 0.204908 7223 5356)" xlink:href="#id0" cx="3708.21" cy="3535.12" r="44.12" fx="3708.21" fy="3535.12">
+  </radialGradient>
+  <radialGradient id="id100" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00360632 -0.687336 -0.996952 0.205109 20369 14485)" xlink:href="#id0" cx="16396.02" cy="4044.79" r="29.34" fx="16396.02" fy="4044.79">
+  </radialGradient>
+  <radialGradient id="id101" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.737796 0.0416515 -0.160951 0.525282 17943 1526)" xlink:href="#id0" cx="9946.93" cy="4086.61" r="50.4" fx="9946.93" fy="4086.61">
+  </radialGradient>
+  <radialGradient id="id102" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.306365 0.902626 1.22084 -0.0432848 13250 -8592)" xlink:href="#id0" cx="12776.56" cy="2818.71" r="42.14" fx="12776.56" fy="2818.71">
+  </radialGradient>
+  <radialGradient id="id103" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00383089 -0.695579 -1.0597 0.207693 7818 5658)" xlink:href="#id0" cx="3807.97" cy="3798.35" r="42.56" fx="3807.97" fy="3798.35">
+  </radialGradient>
+  <radialGradient id="id104" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.184717 0.529446 0.736512 -0.0254039 17932 -6427)" xlink:href="#id0" cx="16553.2" cy="2279.33" r="40.5" fx="16553.2" fy="2279.33">
+  </radialGradient>
+  <radialGradient id="id105" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.11782 -0.72143 -1.02925 0.131148 9105 7549)" xlink:href="#id0" cx="5895.14" cy="3793.45" r="69.5" fx="5895.14" fy="3793.45">
+  </radialGradient>
+  <radialGradient id="id106" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.306244 0.901886 1.22061 -0.0432583 14185 -9436)" xlink:href="#id0" cx="12527.67" cy="1785.2" r="42.12" fx="12527.67" fy="1785.2">
+  </radialGradient>
+  <radialGradient id="id107" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.858653 0.324294 0.743362 -0.72652 -703 1706)" xlink:href="#id0" cx="18362.63" cy="4437.16" r="62.42" fx="18362.63" fy="4437.16">
+  </radialGradient>
+  <radialGradient id="id108" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.882688 0.329712 0.764223 -0.738711 -66 -1005)" xlink:href="#id0" cx="18379.19" cy="2907.15" r="25.56" fx="18379.19" fy="2907.15">
+  </radialGradient>
+  <radialGradient id="id109" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.813566 -0.685166 -0.686664 0.416064 27079 11454)" xlink:href="#id0" cx="13503.49" cy="3771.23" r="47.7" fx="13503.49" fy="3771.23">
+  </radialGradient>
+  <radialGradient id="id110" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.306446 0.903086 1.22096 -0.0432996 10918 -6738)" xlink:href="#id0" cx="12151.42" cy="4059.95" r="47.78" fx="12151.42" fy="4059.95">
+  </radialGradient>
+  <radialGradient id="id111" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.993545 0.518557 1.10525 0.917373 24686 -6947)" xlink:href="#id0" cx="13806.16" cy="2566.86" r="20.7" fx="13806.16" fy="2566.86">
+  </radialGradient>
+  <radialGradient id="id112" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.916125 0.676197 0.732001 0.465151 26958 -8298)" xlink:href="#id0" cx="15749.03" cy="4397.04" r="21.14" fx="15749.03" fy="4397.04">
+  </radialGradient>
+  <radialGradient id="id113" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.939771 -0.336425 -0.793836 0.779139 38436 7012)" xlink:href="#id0" cx="18114.4" cy="4154.64" r="35.34" fx="18114.4" fy="4154.64">
+  </radialGradient>
+  <radialGradient id="id114" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.999352 0.0586357 -0.217948 0.739265 25872 87)" xlink:href="#id0" cx="12595.17" cy="3165.01" r="27.48" fx="12595.17" fy="3165.01">
+  </radialGradient>
+  <radialGradient id="id115" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.448624 -0.74083 -0.642541 0.128076 38069 20503)" xlink:href="#id0" cx="25434.89" cy="1903.66" r="91.94" fx="25434.89" fy="1903.66">
+  </radialGradient>
+  <radialGradient id="id116" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.980924 0.645682 1.30877 -0.878359 -5875 -1353)" xlink:href="#id0" cx="15825.17" cy="4719.63" r="19.1" fx="15825.17" fy="4719.63">
+  </radialGradient>
+  <radialGradient id="id117" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.733424 -1.17446 -1.0502 0.202996 40762 27785)" xlink:href="#id0" cx="22326.2" cy="1962.35" r="37.28" fx="22326.2" fy="1962.35">
+  </radialGradient>
+  <radialGradient id="id118" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.940485 -0.336369 -0.794508 0.779078 38334 6980)" xlink:href="#id0" cx="18106.88" cy="4025.09" r="51.4" fx="18106.88" fy="4025.09">
+  </radialGradient>
+  <radialGradient id="id119" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.04814 0.385769 0.907745 -0.864568 -5071 867)" xlink:href="#id0" cx="19702.12" cy="4541.05" r="31.98" fx="19702.12" fy="4541.05">
+  </radialGradient>
+  <radialGradient id="id120" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.756558 0.0451099 -0.164916 0.568455 20284 889)" xlink:href="#id0" cx="11243.68" cy="3234.6" r="76.94" fx="11243.68" fy="3234.6">
+  </radialGradient>
+  <radialGradient id="id121" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.12333 0.0674014 -0.244905 0.849498 17417 177)" xlink:href="#id0" cx="7670.68" cy="4611.13" r="68.82" fx="7670.68" fy="4611.13">
+  </radialGradient>
+  <radialGradient id="id122" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.973292 -0.34245 -0.822434 0.793365 35307 6327)" xlink:href="#id0" cx="16589.69" cy="3125.31" r="26.14" fx="16589.69" fy="3125.31">
+  </radialGradient>
+  <radialGradient id="id123" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.02784 0.0575248 -0.224123 0.72514 39263 -533)" xlink:href="#id0" cx="19133.74" cy="2065.39" r="50.64" fx="19133.74" fy="2065.39">
+  </radialGradient>
+  <radialGradient id="id124" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00392974 -0.710631 -1.08702 0.212187 11948 8565)" xlink:href="#id0" cx="8325.15" cy="3362.78" r="53.94" fx="8325.15" fy="3362.78">
+  </radialGradient>
+  <radialGradient id="id125" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.784537 -0.260677 -0.674709 -0.935456 6651 10257)" xlink:href="#id0" cx="24683.39" cy="1975.01" r="51.2" fx="24683.39" fy="1975.01">
+  </radialGradient>
+  <radialGradient id="id126" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.18909 0.851387 0.950515 0.585917 30178 -11538)" xlink:href="#id0" cx="15733.13" cy="4485.22" r="20.54" fx="15733.13" fy="4485.22">
+  </radialGradient>
+  <radialGradient id="id127" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.838517 -0.0425193 0.193496 -0.634336 641 7069)" xlink:href="#id0" cx="8873.83" cy="4094.26" r="65.52" fx="8873.83" fy="4094.26">
+  </radialGradient>
+  <radialGradient id="id128" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.118962 -0.704716 -1.03923 0.128109 8308 6807)" xlink:href="#id0" cx="4745.95" cy="3970.71" r="70" fx="4745.95" fy="3970.71">
+  </radialGradient>
+  <radialGradient id="id129" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.00964 0.739548 0.806974 0.508888 26537 -9383)" xlink:href="#id0" cx="13995.99" cy="1970.59" r="68.86" fx="13995.99" fy="1970.59">
+  </radialGradient>
+  <radialGradient id="id130" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.737922 0.0416314 -0.160946 0.524921 17782 1492)" xlink:href="#id0" cx="9861.15" cy="4004.03" r="73.3" fx="9861.15" fy="4004.03">
+  </radialGradient>
+  <radialGradient id="id131" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.84216 -0.0427407 0.194337 -0.637639 3011 5285)" xlink:href="#id0" cx="22328.96" cy="2644.36" r="46.04" fx="22328.96" fy="2644.36">
+  </radialGradient>
+  <radialGradient id="id132" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.842477 -0.042747 0.19433 -0.637471 652 6660)" xlink:href="#id0" cx="8873.71" cy="3835.85" r="22.46" fx="8873.71" fy="3835.85">
+  </radialGradient>
+  <radialGradient id="id133" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.813477 -0.684948 -0.686672 0.415982 27355 11515)" xlink:href="#id0" cx="13703.92" cy="3644.86" r="82.6" fx="13703.92" fy="3644.86">
+  </radialGradient>
+  <radialGradient id="id134" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.890005 -0.315602 -0.765078 -1.13206 3410 9689)" xlink:href="#id0" cx="20584.46" cy="1497.55" r="34.48" fx="20584.46" fy="1497.55">
+  </radialGradient>
+  <radialGradient id="id135" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.00499276 -0.713195 -1.01505 0.219671 14997 10916)" xlink:href="#id0" cx="10327.64" cy="4549.69" r="47.36" fx="10327.64" fy="4549.69">
+  </radialGradient>
+  <radialGradient id="id136" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.872511 0.332026 0.755703 -0.744181 -1132 1919)" xlink:href="#id0" cx="18332.23" cy="4590.15" r="24.94" fx="18332.23" fy="4590.15">
+  </radialGradient>
+  <radialGradient id="id137" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.32946 -0.55194 -0.728286 0.826146 14557 3452)" xlink:href="#id0" cx="5453.09" cy="2545.5" r="47.4" fx="5453.09" fy="2545.5">
+  </radialGradient>
+  <radialGradient id="id138" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.737833 0.0416058 -0.160907 0.524534 888 1584)" xlink:href="#id0" cx="200.8" cy="3349.38" r="101.86" fx="200.8" fy="3349.38">
+  </radialGradient>
+  <radialGradient id="id139" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.257167 -0.564049 -0.86169 -0.22405 5851 5846)" xlink:href="#id0" cx="5020.06" cy="2462.98" r="110.62" fx="5020.06" fy="2462.98">
+  </radialGradient>
+  <radialGradient id="id140" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.256817 0.739741 1.02334 -0.0354716 -1189 2771)" xlink:href="#id0" cx="2946.17" cy="4780.67" r="43.36" fx="2946.17" fy="4780.67">
+  </radialGradient>
+  <radialGradient id="id141" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.98014 0.645322 1.30855 -0.878429 -5648 -1702)" xlink:href="#id0" cx="15903.47" cy="4557.59" r="11.62" fx="15903.47" fy="4557.59">
+  </radialGradient>
+  <radialGradient id="id142" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.00359061 -0.523038 -0.729667 0.161029 13490 9071)" xlink:href="#id0" cx="10207.68" cy="4447.86" r="47.66" fx="10207.68" fy="4447.86">
+  </radialGradient>
+  <radialGradient id="id143" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00364086 -0.710154 -1.00736 0.212095 10717 7956)" xlink:href="#id0" cx="6158.9" cy="4547.15" r="47.68" fx="6158.9" fy="4547.15">
+  </radialGradient>
+  <radialGradient id="id144" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.737801 0.0416228 -0.160848 0.52458 33479 729)" xlink:href="#id0" cx="18969.54" cy="3193.61" r="101.04" fx="18969.54" fy="3193.61">
+  </radialGradient>
+  <radialGradient id="id145" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.773991 0.0453152 -0.168714 0.571034 31360 -76)" xlink:href="#id0" cx="17518.75" cy="1672.92" r="69.5" fx="17518.75" fy="1672.92">
+  </radialGradient>
+  <radialGradient id="id146" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.02543 -0.819235 -0.865394 0.497426 31490 13224)" xlink:href="#id0" cx="14182.73" cy="3194.13" r="38.06" fx="14182.73" fy="3194.13">
+  </radialGradient>
+ </defs>
+ <rect class="fil0" x="-35117.3" y="-22791" width="56443.13" height="42332.36"/>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1845636250096">
+   <g>
+    <image x="549.51" y="0" width="295.85" height="168.4" xlink:href="galaxybg_Images\galaxybg_ImgID1.png"/>
+   </g>
+   <g>
+    <image x="591.79" y="0" width="169.04" height="84.18" xlink:href="galaxybg_Images\galaxybg_ImgID2.png"/>
+   </g>
+   <g>
+    <g>
+     <image x="10017.91" y="1220.99" width="2916.57" height="2484.06" xlink:href="galaxybg_Images\galaxybg_ImgID3.png"/>
+    </g>
+    <g>
+     <image x="11074.64" y="2105.15" width="803.08" height="547.33" xlink:href="galaxybg_Images\galaxybg_ImgID4.png"/>
+    </g>
+    <g>
+     <image x="11624.15" y="2399.88" width="253.57" height="210.5" xlink:href="galaxybg_Images\galaxybg_ImgID5.png"/>
+    </g>
+    <g>
+     <image x="5960.02" y="3115.63" width="1563.94" height="1431.49" xlink:href="galaxybg_Images\galaxybg_ImgID6.png"/>
+    </g>
+    <g>
+     <image x="6509.53" y="3662.97" width="464.93" height="336.79" xlink:href="galaxybg_Images\galaxybg_ImgID7.png"/>
+    </g>
+    <g>
+     <image x="6763.14" y="3831.39" width="169.06" height="168.38" xlink:href="galaxybg_Images\galaxybg_ImgID8.png"/>
+    </g>
+    <g>
+     <image x="3212.49" y="1599.92" width="1563.96" height="1431.49" xlink:href="galaxybg_Images\galaxybg_ImgID9.png"/>
+    </g>
+    <g>
+     <image x="3761.99" y="2147.27" width="464.95" height="294.69" xlink:href="galaxybg_Images\galaxybg_ImgID10.png"/>
+    </g>
+    <g>
+     <image x="4057.89" y="2273.57" width="169.06" height="168.4" xlink:href="galaxybg_Images\galaxybg_ImgID11.png"/>
+    </g>
+    <g>
+     <image x="1056.74" y="3452.46" width="1606.22" height="1431.49" xlink:href="galaxybg_Images\galaxybg_ImgID12.png"/>
+    </g>
+    <g>
+     <image x="1648.52" y="3999.81" width="422.67" height="294.69" xlink:href="galaxybg_Images\galaxybg_ImgID13.png"/>
+    </g>
+    <g>
+     <image x="1902.14" y="4126.1" width="169.06" height="168.4" xlink:href="galaxybg_Images\galaxybg_ImgID14.png"/>
+    </g>
+    <g>
+     <image x="15301.6" y="3536.66" width="2958.83" height="1599.9" xlink:href="galaxybg_Images\galaxybg_ImgID15.png"/>
+    </g>
+    <g>
+     <image x="15132.53" y="3831.39" width="2028.91" height="1305.17" xlink:href="galaxybg_Images\galaxybg_ImgID16.png"/>
+    </g>
+    <g>
+     <image x="16907.85" y="4926.07" width="253.59" height="210.5" xlink:href="galaxybg_Images\galaxybg_ImgID17.png"/>
+    </g>
+    <g>
+     <image x="24727.73" y="1220.99" width="2832.03" height="3915.57" xlink:href="galaxybg_Images\galaxybg_ImgID18.png"/>
+    </g>
+    <g>
+     <image x="25065.88" y="1220.99" width="2493.88" height="1684.1" xlink:href="galaxybg_Images\galaxybg_ImgID19.png"/>
+    </g>
+    <g>
+     <image x="-0" y="1220.99" width="2874.31" height="2652.48" xlink:href="galaxybg_Images\galaxybg_ImgID20.png"/>
+    </g>
+    <g>
+     <image x="295.89" y="1642.02" width="1141.25" height="799.94" xlink:href="galaxybg_Images\galaxybg_ImgID21.png"/>
+    </g>
+    <g>
+     <image x="1141.29" y="2147.27" width="295.85" height="294.69" xlink:href="galaxybg_Images\galaxybg_ImgID22.png"/>
+    </g>
+    <g>
+     <image x="18387.27" y="2020.95" width="2916.57" height="2652.48" xlink:href="galaxybg_Images\galaxybg_ImgID23.png"/>
+    </g>
+    <g>
+     <image x="18218.2" y="2273.57" width="2028.91" height="1347.29" xlink:href="galaxybg_Images\galaxybg_ImgID24.png"/>
+    </g>
+    <g>
+     <image x="19993.54" y="3368.24" width="253.57" height="252.61" xlink:href="galaxybg_Images\galaxybg_ImgID25.png"/>
+    </g>
+    <g>
+     <image x="13314.93" y="1768.34" width="2240.25" height="2063.03" xlink:href="galaxybg_Images\galaxybg_ImgID26.png"/>
+    </g>
+    <g>
+     <image x="12173.66" y="1220.99" width="2578.4" height="1768.3" xlink:href="galaxybg_Images\galaxybg_ImgID27.png"/>
+    </g>
+    <g>
+     <image x="14540.74" y="2778.82" width="211.32" height="210.48" xlink:href="galaxybg_Images\galaxybg_ImgID28.png"/>
+    </g>
+    <g>
+     <image x="8918.89" y="4168.2" width="2240.25" height="968.36" xlink:href="galaxybg_Images\galaxybg_ImgID29.png"/>
+    </g>
+    <g>
+     <image x="7354.91" y="3368.24" width="2705.24" height="1768.32" xlink:href="galaxybg_Images\galaxybg_ImgID30.png"/>
+    </g>
+    <g>
+     <image x="10736.49" y="3241.94" width="1141.23" height="1052.56" xlink:href="galaxybg_Images\galaxybg_ImgID31.png"/>
+    </g>
+    <g>
+     <image x="9975.63" y="2863.01" width="1521.68" height="1052.56" xlink:href="galaxybg_Images\galaxybg_ImgID32.png"/>
+    </g>
+    <g>
+     <image x="11328.26" y="3747.17" width="126.78" height="126.3" xlink:href="galaxybg_Images\galaxybg_ImgID33.png"/>
+    </g>
+    <g>
+     <image x="2747.54" y="1220.99" width="8157.99" height="3915.57" xlink:href="galaxybg_Images\galaxybg_ImgID34.png"/>
+    </g>
+    <g>
+     <image x="5664.13" y="1220.99" width="2662.96" height="1810.42" xlink:href="galaxybg_Images\galaxybg_ImgID35.png"/>
+    </g>
+    <g>
+     <image x="8115.77" y="2820.91" width="211.32" height="210.5" xlink:href="galaxybg_Images\galaxybg_ImgID36.png"/>
+    </g>
+    <g>
+     <image x="19148.14" y="1220.99" width="8158.01" height="3915.57" xlink:href="galaxybg_Images\galaxybg_ImgID37.png"/>
+    </g>
+    <g>
+     <image x="21726.58" y="1642.02" width="3001.11" height="2020.93" xlink:href="galaxybg_Images\galaxybg_ImgID38.png"/>
+    </g>
+    <g>
+     <image x="24516.37" y="3452.46" width="211.32" height="210.5" xlink:href="galaxybg_Images\galaxybg_ImgID39.png"/>
+    </g>
+    <g>
+     <image x="21092.53" y="1220.99" width="4480.56" height="2231.45" xlink:href="galaxybg_Images\galaxybg_ImgID40.png"/>
+    </g>
+    <g>
+     <image x="22994.67" y="1220.99" width="1183.51" height="842.04" xlink:href="galaxybg_Images\galaxybg_ImgID41.png"/>
+    </g>
+    <g>
+     <image x="24009.14" y="1894.64" width="169.04" height="168.4" xlink:href="galaxybg_Images\galaxybg_ImgID42.png"/>
+    </g>
+    <g>
+     <image x="16569.7" y="1220.99" width="4522.81" height="2231.45" xlink:href="galaxybg_Images\galaxybg_ImgID43.png"/>
+    </g>
+    <g>
+     <image x="18471.81" y="1220.99" width="1183.53" height="842.04" xlink:href="galaxybg_Images\galaxybg_ImgID44.png"/>
+    </g>
+    <g>
+     <image x="19528.57" y="1894.64" width="126.78" height="168.4" xlink:href="galaxybg_Images\galaxybg_ImgID45.png"/>
+    </g>
+    <g>
+     <image x="20543.02" y="2315.67" width="1859.84" height="1599.9" xlink:href="galaxybg_Images\galaxybg_ImgID46.png"/>
+    </g>
+    <g>
+     <image x="21092.53" y="2863.01" width="718.56" height="505.21" xlink:href="galaxybg_Images\galaxybg_ImgID47.png"/>
+    </g>
+    <g>
+     <image x="21726.58" y="3241.94" width="84.52" height="126.28" xlink:href="galaxybg_Images\galaxybg_ImgID48.png"/>
+    </g>
+    <g>
+     <image x="17499.61" y="3199.85" width="1817.58" height="1641.98" xlink:href="galaxybg_Images\galaxybg_ImgID49.png"/>
+    </g>
+    <g>
+     <image x="18049.12" y="3747.17" width="718.56" height="547.33" xlink:href="galaxybg_Images\galaxybg_ImgID50.png"/>
+    </g>
+    <g>
+     <image x="18640.91" y="4168.2" width="126.78" height="84.2" xlink:href="galaxybg_Images\galaxybg_ImgID51.png"/>
+    </g>
+    <g>
+     <image x="12258.2" y="3157.73" width="1859.82" height="1599.9" xlink:href="galaxybg_Images\galaxybg_ImgID52.png"/>
+    </g>
+    <g>
+     <image x="12807.7" y="3705.07" width="718.54" height="505.21" xlink:href="galaxybg_Images\galaxybg_ImgID53.png"/>
+    </g>
+    <g>
+     <image x="13441.75" y="4084.01" width="84.5" height="126.28" xlink:href="galaxybg_Images\galaxybg_ImgID54.png"/>
+    </g>
+    <g>
+     <image x="15682.04" y="1431.51" width="1521.66" height="1389.39" xlink:href="galaxybg_Images\galaxybg_ImgID55.png"/>
+    </g>
+    <g>
+     <image x="16231.52" y="1978.85" width="422.67" height="294.69" xlink:href="galaxybg_Images\galaxybg_ImgID56.png"/>
+    </g>
+    <g>
+     <image x="16485.16" y="2105.15" width="169.04" height="168.4" xlink:href="galaxybg_Images\galaxybg_ImgID57.png"/>
+    </g>
+    <g>
+     <g>
+      <image x="20923.45" y="3915.59" width="211.32" height="168.4" xlink:href="galaxybg_Images\galaxybg_ImgID58.png"/>
+     </g>
+     <path class="fil1" d="M21026.19 4044.53c-30.26,-13.48 -59.54,-60.26 -59.54,-60.26 -1.56,-3.46 -2.12,-6.64 -1.92,-9.8 -14.94,7.48 -23.98,18.62 -17.64,32.94 0,0 29.14,46.78 59.56,60.26 23.64,10.36 52.84,-10.1 65.62,-33.44 -13.9,11.14 -31.04,16.92 -46.08,10.3z"/>
+     <g>
+      <image x="17203.74" y="2357.79" width="169.04" height="168.38" xlink:href="galaxybg_Images\galaxybg_ImgID59.png"/>
+     </g>
+     <path class="fil2" d="M17254.8 2460.52c13.9,15.58 15.32,56.36 15.32,56.36 -0.28,2.9 -1.14,5.44 -2.34,7.76 11.8,-3.02 21.24,-9.88 22.44,-21.8 0,0 -1.34,-40.7 -15.3,-56.36 -10.8,-12.08 -35.84,-1.84 -52,13.54 12.42,-5.92 25.04,-7.2 31.88,0.5z"/>
+     <g>
+      <image x="18175.94" y="3157.73" width="253.57" height="210.5" xlink:href="galaxybg_Images\galaxybg_ImgID60.png"/>
+     </g>
+     <path class="fil3" d="M18305.77 3299.68c-43.46,-9.66 -97.5,-57.22 -97.5,-57.22 -3.18,-3.68 -5.16,-7.2 -5.94,-10.8 -16.5,11.22 -23.98,25.48 -10.86,40.44 0,0 54.04,47.62 97.66,57.28 33.78,7.56 63.92,-20.88 71.96,-49.66 -13.84,15.1 -33.8,24.76 -55.32,19.96z"/>
+     <g>
+      <image x="18852.24" y="3073.53" width="295.85" height="168.4" xlink:href="galaxybg_Images\galaxybg_ImgID61.png"/>
+     </g>
+     <path class="fil4" d="M19026.76 3193.93c-50.94,5.42 -135.24,-15.88 -135.24,-15.88 -5.44,-1.98 -9.54,-4.16 -12.5,-6.84 -10.44,13.82 -9.66,27.38 12.78,35.28 0,0 84.3,21.44 135.32,15.94 39.52,-4.3 53.76,-35.84 45.02,-61.04 -5.36,16.1 -20.18,29.78 -45.38,32.54z"/>
+     <g>
+      <image x="23163.74" y="1684.12" width="295.85" height="210.5" xlink:href="galaxybg_Images\galaxybg_ImgID62.png"/>
+     </g>
+     <path class="fil5" d="M23368.3 1796.54c-46.28,24.76 -147.96,45.92 -147.96,45.92 -6.98,1.06 -12.9,1.28 -18.06,0.86 0.92,13.4 12.84,22 41.78,17.84 0,0 101.66,-21.1 148.02,-46.08 35.98,-19.26 24.2,-46 -5.22,-58.9 7.98,12.76 4.3,28.08 -18.56,40.36z"/>
+     <g>
+      <image x="7566.26" y="4462.94" width="253.59" height="252.59" xlink:href="galaxybg_Images\galaxybg_ImgID63.png"/>
+     </g>
+     <path class="fil6" d="M7717.54 4578.75c-27.74,34.92 -114.02,88.62 -114.02,88.62 -6.28,3.38 -12.06,5.86 -17.56,7.48 11.14,8.88 29.56,10.36 55.44,-3.6 0,0 86.36,-53.7 114.1,-88.76 21.52,-27.16 -10.52,-41.2 -49.82,-38.88 17.64,5.86 25.48,17.78 11.86,35.14z"/>
+     <g>
+      <image x="6889.96" y="4378.72" width="169.04" height="168.4" xlink:href="galaxybg_Images\galaxybg_ImgID64.png"/>
+     </g>
+     <path class="fil7" d="M6981.74 4466.64c1.26,18.36 -19.7,56.6 -19.7,56.6 -1.82,2.6 -3.74,4.8 -5.92,6.62 10.02,0.42 20.4,-3.38 27.66,-14.1 0,0 21.1,-38.24 19.68,-56.66 -1.06,-14.18 -24.4,-11.58 -44.1,-1.62 12,-2.12 21.66,0.06 22.38,9.16z"/>
+     <g>
+      <image x="20120.33" y="3789.29" width="253.59" height="126.28" xlink:href="galaxybg_Images\galaxybg_ImgID65.png"/>
+     </g>
+     <path class="fil8" d="M20258.99 3896.07c-34.92,3.82 -92.92,-10.86 -92.92,-10.86 -3.74,-1.42 -6.56,-2.9 -8.6,-4.66 -7.14,9.46 -6.72,18.78 8.74,24.2 0,0 57.92,14.74 93.06,10.94 27.16,-2.9 36.9,-24.56 30.98,-41.92 -3.68,11.08 -13.9,20.48 -31.26,22.3z"/>
+     <g>
+      <image x="7946.7" y="4673.45" width="169.04" height="126.28" xlink:href="galaxybg_Images\galaxybg_ImgID66.png"/>
+     </g>
+     <path class="fil9" d="M8041.09 4764.39c-20.32,12.48 -67.1,25.04 -67.1,25.04 -3.24,0.64 -6,0.92 -8.38,0.84 1.18,6 7.32,9.46 20.74,6.7 0,0 46.7,-12.4 67.1,-25.04 15.8,-9.66 8.68,-21.24 -5.94,-26.18 4.46,5.5 3.74,12.42 -6.42,18.64z"/>
+     <g>
+      <path class="fil10" d="M15047.13 1608.12c-23.08,0.86 -30.7,24.5 -19.9,36.76 9.1,10.52 33.08,14.12 53.54,8.4 21.96,-6.14 44.82,-23.56 25.34,-32.94 0,0 -35.98,-13.06 -58.98,-12.22z"/>
+     </g>
+     <path class="fil11" d="M15046.33 1621.14c23,-0.78 59.06,12.26 59.06,12.26 2.24,1.14 3.94,2.26 5.08,3.6 5.56,-6.14 6.2,-12.56 -3.32,-17.06 0,0 -35.92,-13.14 -59.06,-12.28 -17.78,0.64 -26.32,15.1 -24.2,27.3 3.52,-7.4 11,-13.4 22.44,-13.82z"/>
+     <g>
+      <image x="16738.77" y="1726.24" width="211.32" height="126.28" xlink:href="galaxybg_Images\galaxybg_ImgID67.png"/>
+     </g>
+     <path class="fil12" d="M16796.49 1801.4c23.64,-3.74 64.34,3.74 64.34,3.74 2.62,0.7 4.74,1.62 6.28,2.68 4.16,-6.42 3.18,-12.48 -7.9,-15.46 0,0 -40.64,-7.46 -64.34,-3.72 -18.36,2.88 -23.5,17.48 -18.14,28.64 1.7,-7.42 7.98,-13.98 19.76,-15.88z"/>
+     <g>
+      <image x="17415.08" y="1599.92" width="211.32" height="126.28" xlink:href="galaxybg_Images\galaxybg_ImgID68.png"/>
+     </g>
+     <path class="fil13" d="M17481.21 1669.82c35.2,-1.28 90.24,18.62 90.24,18.62 3.46,1.84 6,3.52 7.76,5.58 8.6,-9.38 9.52,-19.26 -5,-26.12 0,0 -54.9,-20.02 -90.32,-18.68 -27.1,0.84 -40.22,23 -36.9,41.62 5.36,-11.36 16.86,-20.46 34.22,-21.02z"/>
+     <g>
+      <image x="19444.03" y="2315.67" width="253.57" height="168.4" xlink:href="galaxybg_Images\galaxybg_ImgID69.png"/>
+     </g>
+     <path class="fil14" d="M19514.87 2414.08c35.06,-1.34 90.02,18.7 90.02,18.7 3.6,1.7 6.14,3.46 7.9,5.5 8.4,-9.38 9.52,-19.18 -5.14,-26.1 0,0 -54.82,-19.96 -90.1,-18.76 -27.32,1.06 -40.22,23 -37.04,41.7 5.42,-11.36 16.86,-20.48 34.36,-21.04z"/>
+     <g>
+      <image x="16654.23" y="1726.24" width="126.78" height="84.18" xlink:href="galaxybg_Images\galaxybg_ImgID70.png"/>
+     </g>
+     <path class="fil15" d="M16682.69 1780.24c14.04,-0.5 35.9,7.48 35.9,7.48 1.42,0.62 2.4,1.34 3.18,2.1 3.38,-3.66 3.74,-7.62 -2.04,-10.36 0,0 -21.88,-7.9 -35.92,-7.48 -10.86,0.42 -16.02,9.18 -14.74,16.66 2.1,-4.52 6.7,-8.12 13.62,-8.4z"/>
+     <g>
+      <image x="18006.86" y="2147.27" width="169.04" height="126.28" xlink:href="galaxybg_Images\galaxybg_ImgID71.png"/>
+     </g>
+     <path class="fil16" d="M18075.2 2214.63c16.52,5.94 34.16,28.66 34.16,28.66 0.92,1.76 1.4,3.3 1.48,4.86 7.4,-4.1 11.56,-9.88 7.62,-16.94 0,0 -17.58,-22.78 -34.3,-28.78 -12.7,-4.58 -26.94,6.34 -32.52,18.48 6.7,-5.92 15.38,-9.3 23.56,-6.28z"/>
+     <g>
+      <image x="5664.13" y="4673.45" width="126.78" height="126.28" xlink:href="galaxybg_Images\galaxybg_ImgID72.png"/>
+     </g>
+     <path class="fil17" d="M5705.35 4731.37c8.04,6.56 11.92,24.96 11.92,24.96 0.06,1.34 0,2.48 -0.5,3.68 5.58,-1.9 9.6,-5.44 9.18,-10.86 0,0 -3.88,-18.5 -11.86,-24.98 -6.28,-5.08 -17.7,0.64 -24.34,8.26 5.58,-3.18 11.64,-4.32 15.6,-1.06z"/>
+     <g>
+      <image x="6171.38" y="4547.13" width="126.78" height="126.3" xlink:href="galaxybg_Images\galaxybg_ImgID73.png"/>
+     </g>
+     <path class="fil18" d="M6212.06 4638.79c8.04,6.56 12,24.98 12,24.98 0.06,1.34 -0.08,2.54 -0.5,3.66 5.5,-1.82 9.52,-5.36 9.18,-10.86 0,0 -3.96,-18.48 -12,-24.98 -6.2,-5.08 -17.64,0.64 -24.28,8.34 5.66,-3.26 11.66,-4.38 15.6,-1.14z"/>
+     <g>
+      <image x="7397.19" y="3368.24" width="169.04" height="168.4" xlink:href="galaxybg_Images\galaxybg_ImgID74.png"/>
+     </g>
+     <path class="fil19" d="M7396.81 3452.14l0 0.04c0.2,1.44 6.72,47.52 25.1,64.6 14.4,13.48 43.68,0 61.4,-18.84 -14.34,7.62 -29.58,9.88 -38.74,1.34 -18.56,-17.36 -25.04,-64.62 -25.04,-64.62 0.06,-3.4 0.7,-6.36 1.9,-9.26 -13.9,4.24 -24.56,12.78 -24.62,26.74z"/>
+     <g>
+      <image x="20627.56" y="1810.44" width="253.59" height="210.5" xlink:href="galaxybg_Images\galaxybg_ImgID75.png"/>
+     </g>
+     <path class="fil20" d="M20746.16 1968.47c-41.4,-15.1 -85.58,-72.18 -85.58,-72.18 -2.4,-4.3 -3.52,-8.32 -3.66,-12.34 -18.64,10.36 -29,25.04 -19.06,42.6 0,0 43.96,57.22 85.52,72.18 32.18,11.72 68.02,-15.94 82.06,-46.2 -16.94,14.88 -38.88,23.34 -59.28,15.94z"/>
+     <g>
+      <image x="17753.25" y="2273.57" width="169.04" height="168.4" xlink:href="galaxybg_Images\galaxybg_ImgID76.png"/>
+     </g>
+     <path class="fil21" d="M17833.29 2381.78c-23.58,-10.38 -46.22,-46.72 -46.22,-46.72 -1.14,-2.68 -1.62,-5.22 -1.48,-7.62 -11.58,5.78 -18.5,14.46 -13.7,25.54 0,0 22.66,36.26 46.22,46.72 18.28,8.1 41,-7.76 50.94,-25.9 -10.8,8.6 -24.12,13.12 -35.76,7.98z"/>
+     <g>
+      <image x="21219.35" y="2189.37" width="211.32" height="252.59" xlink:href="galaxybg_Images\galaxybg_ImgID77.png"/>
+     </g>
+     <path class="fil22" d="M21267.49 2385.16c-11.78,-42.98 4.88,-113.04 4.88,-113.04 1.76,-4.44 3.94,-7.9 6.7,-10.22 -17.5,-9.32 -33.66,-9.24 -40.72,9.38 0,0 -16.78,70 -4.8,113.1 9.1,33.38 48.34,46.64 77.54,40.22 -19.76,-5.08 -37.68,-18.14 -43.6,-39.44z"/>
+     <g>
+      <image x="22614.23" y="1515.7" width="211.32" height="252.61" xlink:href="galaxybg_Images\galaxybg_ImgID78.png"/>
+     </g>
+     <path class="fil23" d="M22717.43 1724.98c-28.64,-42.4 -49.3,-126.84 -49.3,-126.84 -0.78,-5.72 -0.78,-10.38 0.14,-14.26 -17.08,-2.76 -28.66,4.3 -25.2,27.86 0,0 20.6,84.46 49.4,126.94 22.28,32.94 56.78,30.76 75,11.22 -16.72,2.82 -35.78,-3.88 -50.04,-24.92z"/>
+     <g>
+      <image x="22783.31" y="2652.5" width="211.34" height="210.5" xlink:href="galaxybg_Images\galaxybg_ImgID79.png"/>
+     </g>
+     <path class="fil24" d="M22889.73 2814.61c-29.28,-19.6 -73.8,-73.22 -73.8,-73.22 -2.82,-3.88 -4.8,-7.28 -6.14,-10.44 -7.68,4.72 -9.02,14.46 2.54,30.32 0,0 44.46,53.64 73.8,73.24 22.8,15.32 34.94,-0.06 33.3,-21.58 -5.08,8.74 -15.24,11.36 -29.7,1.68z"/>
+     <g>
+      <image x="25319.49" y="1768.34" width="253.59" height="210.5" xlink:href="galaxybg_Images\galaxybg_ImgID80.png"/>
+     </g>
+     <path class="fil25" d="M25486.27 1926.56c-43.82,-8.04 -131.74,-59.12 -131.74,-59.12 -5.92,-3.96 -10.8,-7.9 -14.82,-12 -2.68,13.98 4.74,30.98 29.22,47.28 0,0 87.84,51.16 131.8,59.12 34.14,6.36 31.46,-28.5 11,-62.16 3.1,18.34 -3.74,30.84 -25.46,26.88z"/>
+     <g>
+      <image x="10356.06" y="3662.97" width="338.13" height="252.59" xlink:href="galaxybg_Images\galaxybg_ImgID81.png"/>
+     </g>
+     <path class="fil26" d="M10581.53 3853.95c-56.3,-10.44 -169.2,-75.92 -169.2,-75.92 -7.62,-5.14 -13.9,-10.22 -19.04,-15.44 -3.4,17.98 6.06,39.72 37.54,60.74 0,0 112.82,65.54 169.26,75.92 43.8,8.18 40.42,-36.68 14.1,-79.86 3.96,23.56 -4.8,39.64 -32.66,34.56z"/>
+     <g>
+      <image x="22276.08" y="1852.54" width="169.06" height="210.5" xlink:href="galaxybg_Images\galaxybg_ImgID82.png"/>
+     </g>
+     <path class="fil27" d="M22344.28 1997.61c-19.68,-29.08 -33.86,-87.22 -33.86,-87.22 -0.58,-3.94 -0.58,-7.12 0,-9.8 -11.72,-1.84 -19.76,2.96 -17.3,19.2 0,0 14.18,57.98 33.94,87.2 15.32,22.64 39.1,21.16 51.58,7.76 -11.5,1.98 -24.56,-2.68 -34.36,-17.14z"/>
+     <g>
+      <image x="23628.71" y="2273.57" width="169.06" height="126.3" xlink:href="galaxybg_Images\galaxybg_ImgID83.png"/>
+     </g>
+     <path class="fil28" d="M23695.25 2374.5c-20.6,-12.06 -53.56,-47.48 -53.56,-47.48 -2.1,-2.62 -3.66,-4.86 -4.72,-6.98 -4.8,3.8 -4.94,10.86 3.74,21.44 0,0 32.94,35.42 53.56,47.56 16,9.38 22.92,-2.4 20.38,-17.58 -2.76,6.5 -9.18,9.12 -19.4,3.04z"/>
+     <g>
+      <path class="fil10" d="M11447.29 4281.78c-11.08,-4.04 -23.78,9.38 -23.5,19.18 0.22,8.4 10.02,15.38 21.8,15.8 12.64,0.42 30.06,-6.06 24.62,-15.72 0,0 -11.78,-15.24 -22.92,-19.26z"/>
+     </g>
+     <path class="fil29" d="M11441.87 4289.84c11.08,4.02 22.92,19.18 22.92,19.18 0.64,1.2 1,2.26 1,3.32 5,-2.74 7.76,-6.62 5.08,-11.36 0,0 -11.8,-15.3 -22.94,-19.32 -8.54,-3.12 -18.14,4.3 -21.88,12.4 4.6,-4.02 10.38,-6.28 15.82,-4.22z"/>
+     <g>
+      <image x="19655.36" y="1768.34" width="253.59" height="210.5" xlink:href="galaxybg_Images\galaxybg_ImgID84.png"/>
+     </g>
+     <path class="fil30" d="M19775.98 1918.24c-35.06,-15.52 -68.86,-69.56 -68.86,-69.56 -1.7,-4.02 -2.4,-7.84 -2.2,-11.36 -17.2,8.6 -27.58,21.52 -20.38,38.02 0,0 33.72,54.12 68.86,69.64 27.3,12.06 61.1,-11.64 75.92,-38.6 -16.08,12.84 -35.98,19.56 -53.34,11.86z"/>
+     <g>
+      <image x="16781.03" y="2441.98" width="126.78" height="126.28" xlink:href="galaxybg_Images\galaxybg_ImgID85.png"/>
+     </g>
+     <path class="fil31" d="M16800.23 2534.02c-3.4,-11.84 6.28,-38.24 6.28,-38.24 0.98,-1.82 2.04,-3.38 3.32,-4.72 -7.14,0.42 -13.98,3.6 -17.72,11.08 0,0 -9.74,26.46 -6.34,38.32 2.68,9.16 18.84,5.84 31.46,-1.98 -8.26,2.18 -15.32,1.4 -17,-4.46z"/>
+     <g>
+      <image x="16611.95" y="2484.08" width="169.06" height="168.4" xlink:href="galaxybg_Images\galaxybg_ImgID86.png"/>
+     </g>
+     <path class="fil32" d="M16669.99 2619.34c3.3,-17.36 30.04,-50.52 30.04,-50.52 2.12,-2.26 4.32,-4.02 6.42,-5.5 -8.1,-1.64 -17.78,0.7 -26.46,9.86 0,0 -26.8,33.16 -29.98,50.46 -2.6,13.48 17.58,13.82 36.4,6.9 -10.5,0.58 -18.06,-2.68 -16.42,-11.2z"/>
+     <g>
+      <image x="11159.18" y="3115.63" width="211.32" height="168.4" xlink:href="galaxybg_Images\galaxybg_ImgID87.png"/>
+     </g>
+     <path class="fil33" d="M11290.24 3226.17c-33.58,18 -107.38,33.38 -107.38,33.38 -5,0.7 -9.38,0.9 -13.04,0.56 0.7,9.74 9.3,15.94 30.26,12.9 0,0 73.72,-15.24 107.38,-33.36 26.12,-13.98 17.58,-33.3 -3.8,-42.7 5.78,9.26 3.1,20.32 -13.42,29.22z"/>
+     <g>
+      <image x="10905.57" y="2694.6" width="295.85" height="210.5" xlink:href="galaxybg_Images\galaxybg_ImgID88.png"/>
+     </g>
+     <path class="fil34" d="M11097 2778.22c-29.98,37.74 -123.26,95.82 -123.26,95.82 -6.78,3.6 -13.06,6.28 -18.98,8.04 12,9.66 31.96,11.22 59.96,-3.88 0,0 93.36,-58 123.28,-95.96 23.34,-29.34 -11.3,-44.52 -53.84,-41.98 19.12,6.36 27.58,19.26 12.84,37.96z"/>
+     <g>
+      <image x="5368.24" y="2441.98" width="211.34" height="168.4" xlink:href="galaxybg_Images\galaxybg_ImgID89.png"/>
+     </g>
+     <path class="fil35" d="M5485.49 2518.44c-11.22,28.92 -70.98,72.04 -70.98,72.04 -4.58,2.74 -9.1,4.66 -13.82,5.86 14.96,7.96 33.58,9.66 52.48,-1.5 0,0 59.84,-43.18 70.98,-72.16 8.76,-22.44 -28.86,-35.28 -66.1,-34.44 19.82,5.5 32.88,15.88 27.44,30.2z"/>
+     <g>
+      <image x="19063.6" y="1936.76" width="169.04" height="210.48" xlink:href="galaxybg_Images\galaxybg_ImgID90.png"/>
+     </g>
+     <path class="fil36" d="M19144.94 2034.65c1.7,22.92 -24.68,70.9 -24.68,70.9 -2.2,3.32 -4.66,6.08 -7.34,8.4 12.56,0.5 25.6,-4.24 34.72,-17.7 0,0 26.38,-48.06 24.68,-71.06 -1.34,-17.92 -30.68,-14.54 -55.46,-2.12 15.1,-2.6 27.18,0.22 28.08,11.58z"/>
+     <g>
+      <image x="9637.48" y="2399.88" width="253.59" height="210.5" xlink:href="galaxybg_Images\galaxybg_ImgID91.png"/>
+     </g>
+     <path class="fil37" d="M9772.07 2516.32c-23.58,25.12 -101.18,54.96 -101.18,54.96 -5.72,1.62 -11.08,2.68 -16.16,3.04 11.28,10.02 28.92,14.88 52.28,7.9 0,0 77.68,-29.84 101.32,-54.96 18.42,-19.48 -13.06,-38.24 -50.24,-44.04 17.22,8.68 25.68,20.68 13.98,33.1z"/>
+     <g>
+      <image x="11328.26" y="2905.11" width="211.32" height="126.3" xlink:href="galaxybg_Images\galaxybg_ImgID92.png"/>
+     </g>
+     <path class="fil38" d="M11446.81 2978.87c-22.02,13.48 -72.54,27.02 -72.54,27.02 -3.52,0.72 -6.5,1.06 -9.1,1 1.34,6.48 7.98,10.22 22.44,7.26 0,0 50.44,-13.48 72.46,-27.02 17.14,-10.52 9.46,-23.08 -6.36,-28.36 4.8,5.92 4.02,13.4 -6.9,20.1z"/>
+     <g>
+      <image x="17541.89" y="2063.05" width="126.78" height="84.18" xlink:href="galaxybg_Images\galaxybg_ImgID93.png"/>
+     </g>
+     <path class="fil39" d="M17572.71 2114.65c6.72,5.52 10.02,21.04 10.02,21.04 0.08,1.12 0,2.04 -0.42,3.02 4.66,-1.54 8.12,-4.5 7.76,-9.1 0,0 -3.32,-15.52 -10.02,-21.1 -5.28,-4.22 -14.88,0.64 -20.46,7.06 4.74,-2.68 9.82,-3.66 13.12,-0.92z"/>
+     <g>
+      <image x="18175.94" y="2105.15" width="126.78" height="126.3" xlink:href="galaxybg_Images\galaxybg_ImgID94.png"/>
+     </g>
+     <path class="fil40" d="M18215.96 2178.23c10.1,8.18 15.04,31.32 15.04,31.32 0.06,1.7 -0.08,3.18 -0.64,4.6 6.92,-2.34 12,-6.72 11.5,-13.62 0,0 -4.94,-23.14 -15.04,-31.34 -7.76,-6.42 -22.08,0.78 -30.32,10.38 6.98,-3.96 14.52,-5.36 19.46,-1.34z"/>
+     <g>
+      <image x="18175.94" y="1894.64" width="211.32" height="210.5" xlink:href="galaxybg_Images\galaxybg_ImgID95.png"/>
+     </g>
+     <path class="fil41" d="M18243.62 2050.31c-23.28,-21.8 -31.4,-81.14 -31.4,-81.14 0.08,-4.24 0.86,-7.98 2.4,-11.5 -17.5,5.22 -30.82,15.94 -30.98,33.52 0,0 8.06,59.34 31.54,81.06 18.06,16.94 54.82,0 77.06,-23.64 -18,9.6 -37.04,12.5 -48.62,1.7z"/>
+     <g>
+      <image x="17372.82" y="2989.33" width="253.57" height="168.38" xlink:href="galaxybg_Images\galaxybg_ImgID96.png"/>
+     </g>
+     <path class="fil42" d="M17504.91 3118.71c-34.84,-12.62 -72.04,-60.74 -72.04,-60.74 -1.9,-3.6 -2.88,-6.98 -3.1,-10.38 -15.58,8.82 -24.34,21.1 -16.02,35.92 0,0 37.04,48.12 72.04,60.74 27.1,9.88 57.3,-13.4 69.08,-38.88 -14.26,12.5 -32.74,19.62 -49.96,13.34z"/>
+     <g>
+      <image x="8792.08" y="3999.81" width="211.32" height="168.38" xlink:href="galaxybg_Images\galaxybg_ImgID97.png"/>
+     </g>
+     <path class="fil43" d="M8831.37 4105.4c29.2,-19.54 98.14,-40.78 98.14,-40.78 4.8,-1.2 9.04,-1.76 12.7,-1.84 -2.68,-8.6 -12.28,-13.32 -32.24,-8.46 0,0 -68.86,21.1 -98.08,40.72 -22.72,15.24 -10.5,31.6 12.22,37.88 -7.42,-7.76 -7.06,-17.92 7.26,-27.52z"/>
+     <g>
+      <image x="8876.61" y="4084.01" width="169.06" height="126.28" xlink:href="galaxybg_Images\galaxybg_ImgID98.png"/>
+     </g>
+     <path class="fil44" d="M8972.69 4154.58c-19.4,7.26 -58,9.66 -58,9.66 -2.6,-0.06 -4.72,-0.28 -6.48,-0.84 -1.28,5.58 1.9,9.74 12.7,9.8 0,0 38.58,-2.4 57.98,-9.66 15.1,-5.58 14.12,-17.08 5.24,-24.12 1.26,5.64 -1.84,11.56 -11.44,15.16z"/>
+     <g>
+      <image x="8707.54" y="3789.29" width="126.78" height="84.18" xlink:href="galaxybg_Images\galaxybg_ImgID99.png"/>
+     </g>
+     <path class="fil45" d="M8769.5 3850.01c-9.94,6.84 -33.58,14.46 -33.58,14.46 -1.7,0.42 -3.1,0.7 -4.38,0.7 0.98,2.96 4.38,4.52 11.22,2.76 0,0 23.7,-7.62 33.58,-14.54 7.7,-5.3 3.24,-10.86 -4.66,-12.84 2.68,2.54 2.68,6.06 -2.18,9.46z"/>
+     <g>
+      <image x="8834.35" y="3747.17" width="126.78" height="126.3" xlink:href="galaxybg_Images\galaxybg_ImgID100.png"/>
+     </g>
+     <path class="fil46" d="M8888.17 3831.79c-9.88,6.86 -33.52,14.48 -33.52,14.48 -1.7,0.42 -3.1,0.62 -4.38,0.7 1,2.96 4.38,4.52 11.22,2.74 0,0 23.72,-7.68 33.58,-14.52 7.7,-5.3 3.26,-10.88 -4.64,-12.84 2.68,2.6 2.68,6 -2.26,9.44z"/>
+     <g>
+      <image x="8834.35" y="3662.97" width="126.78" height="126.28" xlink:href="galaxybg_Images\galaxybg_ImgID101.png"/>
+     </g>
+     <path class="fil47" d="M8900.23 3759.33c-13.62,9.46 -46.14,19.98 -46.14,19.98 -2.34,0.56 -4.24,0.92 -6,0.98 1.42,3.96 6,6.22 15.46,3.74 0,0 32.58,-10.52 46.2,-19.96 10.52,-7.34 4.44,-14.96 -6.48,-17.72 3.66,3.6 3.66,8.34 -3.04,12.98z"/>
+     <g>
+      <image x="5790.95" y="3662.97" width="211.32" height="210.5" xlink:href="galaxybg_Images\galaxybg_ImgID102.png"/>
+     </g>
+     <path class="fil48" d="M5912.7 3754.25c-6.92,33.38 -59.42,97.24 -59.42,97.24 -4.16,4.22 -8.24,7.62 -12.56,10.44 15.68,3.24 34.08,-1 51.16,-18.64 0,0 52.64,-63.7 59.4,-97.22 5.44,-25.9 -33.36,-26.94 -69.84,-13.96 20.24,-0.78 34.64,5.56 31.26,22.14z"/>
+     <g>
+      <image x="4649.65" y="3831.39" width="211.34" height="210.5" xlink:href="galaxybg_Images\galaxybg_ImgID103.png"/>
+     </g>
+     <path class="fil49" d="M4754.69 3929.51c1.48,32.04 -36.62,98.36 -36.62,98.36 -3.24,4.44 -6.48,8.18 -10.36,11.3 17.14,1.04 35.28,-5.3 48.32,-24 0,0 38.18,-66.24 36.62,-98.28 -1.06,-24.84 -41.48,-20.74 -76.06,-3.88 20.76,-3.38 37.34,0.7 38.1,16.5z"/>
+     <g>
+      <image x="5325.98" y="3957.69" width="169.06" height="168.4" xlink:href="galaxybg_Images\galaxybg_ImgID104.png"/>
+     </g>
+     <path class="fil50" d="M5420.23 4035.35c-4.16,20.26 -36.06,59.06 -36.06,59.06 -2.6,2.6 -5,4.66 -7.68,6.34 9.58,2.06 20.8,-0.56 31.18,-11.28 0,0 31.96,-38.74 36.12,-59.2 3.24,-15.66 -20.32,-16.36 -42.48,-8.4 12.28,-0.56 21.04,3.4 18.92,13.48z"/>
+     <g>
+      <image x="5621.87" y="3705.07" width="169.04" height="168.4" xlink:href="galaxybg_Images\galaxybg_ImgID105.png"/>
+     </g>
+     <path class="fil51" d="M5693.13 3798.71c-4.08,20.32 -36.12,59.06 -36.12,59.06 -2.54,2.68 -5,4.72 -7.62,6.42 9.52,2.04 20.82,-0.58 31.12,-11.3 0,0 31.96,-38.8 36.2,-59.12 3.16,-15.74 -20.26,-16.36 -42.56,-8.54 12.28,-0.42 21.1,3.38 18.98,13.48z"/>
+     <g>
+      <image x="4776.47" y="3662.97" width="169.06" height="168.4" xlink:href="galaxybg_Images\galaxybg_ImgID106.png"/>
+     </g>
+     <path class="fil52" d="M4862.15 3744.17c-4.08,20.32 -36.06,59.12 -36.06,59.12 -2.54,2.62 -5.08,4.66 -7.68,6.36 9.52,2.04 20.82,-0.58 31.12,-11.3 0,0 31.96,-38.72 36.18,-59.2 3.18,-15.66 -20.24,-16.36 -42.54,-8.38 12.36,-0.5 21.02,3.38 18.98,13.4z"/>
+     <g>
+      <image x="8284.85" y="4041.91" width="126.78" height="126.28" xlink:href="galaxybg_Images\galaxybg_ImgID107.png"/>
+     </g>
+     <path class="fil53" d="M8343.43 4111.54c-9.38,7.2 -32.68,15.88 -32.68,15.88 -1.62,0.5 -3.1,0.78 -4.36,0.92 1.34,2.82 5,4.08 11.78,2.04 0,0 23.36,-8.68 32.74,-15.88 7.2,-5.56 2.12,-10.8 -6.14,-12.34 2.96,2.4 3.38,5.78 -1.34,9.38z"/>
+     <g>
+      <image x="8115.77" y="4084.01" width="211.32" height="168.4" xlink:href="galaxybg_Images\galaxybg_ImgID108.png"/>
+     </g>
+     <path class="fil54" d="M8165.07 4210.24c17.06,-20.74 69.14,-52.14 69.14,-52.14 3.8,-1.96 7.26,-3.38 10.5,-4.3 -6.42,-5.42 -17.28,-6.48 -32.94,1.7 0,0 -52.08,31.32 -69.14,52.06 -13.28,16.16 5.42,24.84 28.78,23.86 -10.38,-3.68 -14.82,-10.94 -6.34,-21.18z"/>
+     <g>
+      <image x="18936.78" y="2063.05" width="169.06" height="168.4" xlink:href="galaxybg_Images\galaxybg_ImgID109.png"/>
+     </g>
+     <path class="fil55" d="M18973.86 2160.65c28.92,-0.98 74.08,15.32 74.08,15.32 2.88,1.48 4.94,2.96 6.42,4.58 6.98,-7.68 7.76,-15.72 -4.1,-21.44 0,0 -45.16,-16.44 -74.08,-15.38 -22.44,0.78 -33.1,18.9 -30.48,34.22 4.44,-9.32 13.9,-16.8 28.16,-17.3z"/>
+     <g>
+      <image x="2240.29" y="3410.36" width="126.78" height="126.28" xlink:href="galaxybg_Images\galaxybg_ImgID110.png"/>
+     </g>
+     <path class="fil56" d="M2296.61 3473.46c10.16,8.18 15.1,31.54 15.1,31.54 0.06,1.68 -0.08,3.24 -0.64,4.58 6.98,-2.26 12.14,-6.7 11.56,-13.68 0,0 -4.94,-23.28 -15.1,-31.54 -7.82,-6.5 -22.28,0.7 -30.62,10.44 7,-4.02 14.68,-5.44 19.7,-1.34z"/>
+     <g>
+      <image x="19359.49" y="1810.44" width="211.32" height="168.4" xlink:href="galaxybg_Images\galaxybg_ImgID111.png"/>
+     </g>
+     <path class="fil57" d="M19464.69 1950.41c-34.92,-12.64 -72.04,-60.76 -72.04,-60.76 -1.96,-3.6 -2.96,-6.98 -3.1,-10.3 -15.66,8.68 -24.4,21.04 -16.02,35.84 0,0 36.98,48.12 71.98,60.76 27.08,9.88 57.28,-13.42 69.06,-38.88 -14.24,12.48 -32.72,19.62 -49.88,13.34z"/>
+     <g>
+      <image x="169.08" y="3705.07" width="126.78" height="126.3" xlink:href="galaxybg_Images\galaxybg_ImgID112.png"/>
+     </g>
+     <path class="fil58" d="M207.64 3780.29c10.16,8.18 15.18,31.54 15.18,31.54 0.06,1.7 -0.08,3.18 -0.64,4.58 6.98,-2.32 12.14,-6.76 11.56,-13.68 0,0 -4.94,-23.36 -15.1,-31.6 -7.82,-6.36 -22.28,0.84 -30.68,10.5 7.06,-4.02 14.68,-5.5 19.68,-1.34z"/>
+     <g>
+      <image x="1817.6" y="3662.97" width="126.78" height="126.28" xlink:href="galaxybg_Images\galaxybg_ImgID113.png"/>
+     </g>
+     <path class="fil59" d="M1876.6 3717.43c10.16,8.18 15.1,31.54 15.1,31.54 0.06,1.68 -0.08,3.18 -0.58,4.52 7,-2.26 12.08,-6.72 11.58,-13.62 0,0 -5,-23.36 -15.16,-31.62 -7.84,-6.42 -22.3,0.78 -30.64,10.52 7.06,-4.02 14.68,-5.5 19.7,-1.34z"/>
+     <g>
+      <image x="14329.41" y="1557.82" width="126.78" height="126.28" xlink:href="galaxybg_Images\galaxybg_ImgID114.png"/>
+     </g>
+     <path class="fil60" d="M14360.33 1642.3c6.78,5.5 10.1,20.96 10.1,20.96 0,1.2 0,2.18 -0.44,3.1 4.66,-1.56 8.06,-4.52 7.7,-9.1 0,0 -3.24,-15.6 -10.02,-21.02 -5.3,-4.32 -14.88,0.48 -20.46,6.98 4.72,-2.76 9.8,-3.68 13.12,-0.92z"/>
+     <g>
+      <image x="14878.91" y="1936.76" width="211.32" height="168.38" xlink:href="galaxybg_Images\galaxybg_ImgID115.png"/>
+     </g>
+     <path class="fil61" d="M14973.01 2076.49c-23.42,-8.46 -48.4,-40.78 -48.4,-40.78 -1.26,-2.4 -1.9,-4.66 -2.04,-6.92 -10.52,5.86 -16.36,14.12 -10.72,24.06 0,0 24.76,32.32 48.26,40.78 18.2,6.56 38.44,-9.02 46.36,-26.1 -9.54,8.4 -21.96,13.12 -33.46,8.96z"/>
+     <g>
+      <image x="2916.61" y="3662.97" width="253.57" height="210.5" xlink:href="galaxybg_Images\galaxybg_ImgID116.png"/>
+     </g>
+     <path class="fil62" d="M3033.89 3822.21c-38.74,-16.72 -76.7,-75.44 -76.7,-75.44 -1.9,-4.36 -2.74,-8.46 -2.54,-12.4 -18.84,9.58 -29.98,23.7 -21.8,41.68 0,0 37.88,58.72 76.7,75.36 30.12,12.98 66.74,-13.04 82.68,-42.68 -17.42,14.1 -39.16,21.58 -58.34,13.48z"/>
+     <g>
+      <image x="21768.85" y="2105.15" width="169.04" height="168.4" xlink:href="galaxybg_Images\galaxybg_ImgID117.png"/>
+     </g>
+     <path class="fil63" d="M21844.75 2182.95c-1.06,20.46 -28.42,61.68 -28.42,61.68 -2.26,2.74 -4.52,5 -7,6.9 10.38,1.2 21.88,-2.32 31.06,-13.82 0,0 27.5,-41.14 28.42,-61.74 0.92,-15.88 -24.2,-14.46 -46.42,-4.8 12.98,-1.48 22.86,1.62 22.36,11.78z"/>
+     <g>
+      <image x="3085.69" y="3536.66" width="169.04" height="168.4" xlink:href="galaxybg_Images\galaxybg_ImgID118.png"/>
+     </g>
+     <path class="fil64" d="M3155.31 3629.88c13.48,15.52 14.26,55.8 14.26,55.8 -0.36,2.84 -1.14,5.38 -2.4,7.62 11.64,-2.82 21.02,-9.52 22.36,-21.38 0,0 -0.78,-40.28 -14.24,-55.8 -10.38,-12.06 -35.22,-2.04 -51.3,13.06 12.28,-5.72 24.7,-7 31.32,0.7z"/>
+     <g>
+      <image x="3635.2" y="3410.36" width="169.04" height="168.38" xlink:href="galaxybg_Images\galaxybg_ImgID119.png"/>
+     </g>
+     <path class="fil65" d="M3711.49 3508.38c4.22,19.4 -13.84,61.66 -13.84,61.66 -1.54,2.9 -3.38,5.3 -5.58,7.42 11.3,-0.28 22.44,-5.08 29.08,-17.08 0,0 17.92,-42.26 13.68,-61.66 -3.24,-15.04 -29.14,-10.38 -49.88,1.62 13.2,-3.1 24.42,-1.56 26.54,8.04z"/>
+     <g>
+      <image x="3719.73" y="3705.07" width="169.04" height="168.4" xlink:href="galaxybg_Images\galaxybg_ImgID120.png"/>
+     </g>
+     <path class="fil66" d="M3813.99 3774.15c-0.9,19.9 -27.44,59.84 -27.44,59.84 -2.26,2.68 -4.38,4.8 -6.92,6.7 10.16,1.12 21.38,-2.26 30.2,-13.48 0,0 26.68,-39.8 27.6,-59.76 0.84,-15.38 -23.5,-14.04 -45.02,-4.66 12.56,-1.48 22.22,1.56 21.58,11.36z"/>
+     <g>
+      <image x="21430.7" y="1852.54" width="169.04" height="126.3" xlink:href="galaxybg_Images\galaxybg_ImgID121.png"/>
+     </g>
+     <path class="fil67" d="M21510.26 1913.72c-0.64,12.42 -17.28,37.48 -17.28,37.48 -1.42,1.68 -2.82,3.1 -4.3,4.22 6.34,0.7 13.32,-1.4 18.9,-8.46 0,0 16.66,-24.98 17.28,-37.46 0.5,-9.68 -14.66,-8.82 -28.22,-2.98 7.84,-0.9 13.9,1 13.62,7.2z"/>
+     <g>
+      <image x="3719.73" y="3326.14" width="126.78" height="126.3" xlink:href="galaxybg_Images\galaxybg_ImgID122.png"/>
+     </g>
+     <path class="fil68" d="M3762.35 3390.14c-0.64,12.54 -17.42,37.8 -17.42,37.8 -1.42,1.7 -2.82,3.12 -4.3,4.32 6.42,0.7 13.4,-1.42 19.04,-8.54 0,0 16.8,-25.2 17.42,-37.9 0.5,-9.66 -14.8,-8.88 -28.42,-2.88 7.9,-0.92 13.96,0.98 13.68,7.2z"/>
+     <g>
+      <image x="6086.82" y="4420.84" width="211.34" height="168.38" xlink:href="galaxybg_Images\galaxybg_ImgID123.png"/>
+     </g>
+     <path class="fil69" d="M6131.78 4567.17c14.24,-21.3 62.64,-55.72 62.64,-55.72 3.6,-2.2 6.92,-3.9 10.16,-5.02 -7.54,-4.72 -18.84,-4.8 -33.58,4.3 0,0 -48.48,34.36 -62.66,55.74 -11.08,16.58 9.6,23.42 33.44,20.54 -11.2,-2.68 -17,-9.32 -10,-19.84z"/>
+     <g>
+      <image x="24643.19" y="1852.54" width="169.04" height="210.5" xlink:href="galaxybg_Images\galaxybg_ImgID124.png"/>
+     </g>
+     <path class="fil70" d="M24668.47 1993.73c1.2,-26.6 30.06,-62.24 30.06,-62.24 2.32,-2.18 4.86,-3.52 7.48,-4.36 -11,-8.9 -23.08,-12.36 -32.82,-3.46 0,0 -28.84,35.62 -29.98,62.3 -0.92,20.66 25.34,36.48 48.68,39.16 -13.62,-7.14 -23.98,-18.22 -23.42,-31.4z"/>
+     <g>
+      <image x="20500.76" y="1389.41" width="211.32" height="168.38" xlink:href="galaxybg_Images\galaxybg_ImgID125.png"/>
+     </g>
+     <path class="fil71" d="M20609 1489.69c-10.08,17.08 -49.02,31.34 -49.02,31.34 -2.98,0.62 -5.72,0.84 -8.4,0.48 7.12,9.24 17.22,15.24 29.2,12.42 0,0 39.02,-14.18 49.12,-31.26 7.96,-13.12 -11.16,-31.68 -31.9,-40.78 10.16,8.9 16.08,19.42 11,27.8z"/>
+     <g>
+      <image x="8115.77" y="3494.56" width="126.78" height="84.18" xlink:href="galaxybg_Images\galaxybg_ImgID126.png"/>
+     </g>
+     <path class="fil72" d="M8172.11 3550c6.86,5.44 10.16,20.96 10.16,20.96 0,1.2 -0.06,2.2 -0.42,3.04 4.66,-1.48 7.98,-4.44 7.7,-9.04 0,0 -3.32,-15.58 -10.1,-21.02 -5.22,-4.3 -14.82,0.5 -20.38,6.92 4.66,-2.68 9.8,-3.6 13.04,-0.86z"/>
+     <g>
+      <image x="8242.57" y="3241.94" width="211.34" height="168.38" xlink:href="galaxybg_Images\galaxybg_ImgID127.png"/>
+     </g>
+     <path class="fil73" d="M8338.13 3385.96c-25.74,-11.06 -51,-50.22 -51,-50.22 -1.34,-2.9 -1.84,-5.58 -1.78,-8.26 -12.48,6.42 -19.88,15.8 -14.52,27.8 0,0 25.26,39.08 51.08,50.16 20.04,8.6 44.44,-8.74 55.02,-28.44 -11.56,9.4 -26.02,14.4 -38.8,8.96z"/>
+     <g>
+      <image x="9764.27" y="3115.63" width="169.06" height="168.4" xlink:href="galaxybg_Images\galaxybg_ImgID128.png"/>
+     </g>
+     <path class="fil74" d="M9844.95 3211.29c-0.92,17.64 -24.48,53.12 -24.48,53.12 -1.98,2.4 -3.96,4.38 -6.08,6 8.96,0.98 18.84,-2.04 26.74,-11.92 0,0 23.72,-35.5 24.56,-53.14 0.78,-13.68 -20.88,-12.48 -40,-4.22 11.14,-1.28 19.68,1.4 19.26,10.16z"/>
+     <g>
+      <image x="8369.39" y="3199.85" width="126.78" height="126.28" xlink:href="galaxybg_Images\galaxybg_ImgID129.png"/>
+     </g>
+     <path class="fil75" d="M8441.7 3285.92l0 -0.02 0 -0.06 0 -0.1 0 -0.12c-0.1,-2.96 -1.06,-27.08 -9.46,-36.82 -6.9,-8.04 -23.5,-1.34 -34.14,8.68 8.18,-3.8 16.44,-4.66 20.8,0.5 8.98,10.3 9.54,37.12 9.54,37.12 -0.28,1.9 -0.72,3.6 -1.56,5.14 7.7,-1.98 13.98,-6.42 14.82,-14.32z"/>
+     <g>
+      <image x="6298.17" y="2357.79" width="211.32" height="210.48" xlink:href="galaxybg_Images\galaxybg_ImgID130.png"/>
+     </g>
+     <path class="fil76" d="M6414.83 2466.08c6.06,27.52 -19.54,87.56 -19.54,87.56 -2.26,4.16 -4.8,7.62 -7.84,10.58 15.94,-0.34 31.76,-7.18 41.14,-24.26 0,0 25.54,-59.98 19.4,-87.64 -4.52,-21.3 -41.28,-14.74 -70.7,2.34 18.7,-4.52 34.5,-2.26 37.54,11.42z"/>
+     <g>
+      <image x="9552.94" y="3326.14" width="126.78" height="126.3" xlink:href="galaxybg_Images\galaxybg_ImgID131.png"/>
+     </g>
+     <path class="fil77" d="M9595.96 3379.12c-0.56,10.8 -14.88,32.32 -14.88,32.32 -1.2,1.48 -2.4,2.68 -3.74,3.66 5.5,0.64 11.58,-1.26 16.3,-7.26 0,0 14.46,-21.58 14.96,-32.38 0.42,-8.26 -12.7,-7.56 -24.34,-2.48 6.76,-0.78 12,0.86 11.7,6.14z"/>
+     <g>
+      <image x="9679.74" y="3157.73" width="126.78" height="126.3" xlink:href="galaxybg_Images\galaxybg_ImgID132.png"/>
+     </g>
+     <path class="fil78" d="M9726.91 3244.16c-0.56,10.72 -14.88,32.24 -14.88,32.24 -1.2,1.54 -2.48,2.68 -3.74,3.66 5.5,0.64 11.5,-1.2 16.3,-7.26 0,0 14.32,-21.52 14.94,-32.32 0.44,-8.32 -12.7,-7.62 -24.4,-2.54 6.84,-0.7 12,0.84 11.78,6.22z"/>
+     <g>
+      <image x="7101.3" y="2989.33" width="169.06" height="168.38" xlink:href="galaxybg_Images\galaxybg_ImgID133.png"/>
+     </g>
+     <path class="fil79" d="M7188.53 3071.51c-0.92,17.86 -24.84,53.7 -24.84,53.7 -1.9,2.4 -3.96,4.36 -6.08,6.06 9.04,1.06 19.06,-2.04 27.04,-12.06 0,0 23.84,-35.84 24.82,-53.76 0.64,-13.84 -21.08,-12.64 -40.5,-4.16 11.3,-1.34 19.9,1.4 19.56,10.22z"/>
+     <g>
+      <image x="5241.44" y="2315.67" width="211.32" height="126.3" xlink:href="galaxybg_Images\galaxybg_ImgID134.png"/>
+     </g>
+     <path class="fil80" d="M5348.7 2423.18c-21.94,6.64 -71.62,5.86 -71.62,5.86 -3.46,-0.28 -6.34,-0.7 -8.96,-1.48 1.12,6.28 7.4,11.44 21.66,12.48 0,0 49.74,0.86 71.76,-5.84 16.92,-5.16 9.88,-18.64 -5.3,-27.6 4.44,6.64 3.4,13.34 -7.54,16.58z"/>
+     <g>
+      <image x="4861.01" y="2357.79" width="338.13" height="210.48" xlink:href="galaxybg_Images\galaxybg_ImgID135.png"/>
+     </g>
+     <path class="fil81" d="M4951.41 2477.72c44.1,-26.38 161.42,-47.2 161.42,-47.2 8.4,-0.92 15.82,-0.98 22.66,-0.34 -9.52,-14.96 -30,-24.92 -64.56,-21.1 0,0 -117.4,20.66 -161.44,47.26 -34.22,20.46 -2.68,50.66 42.9,65.9 -17.92,-14.52 -22.78,-31.46 -0.98,-44.52z"/>
+     <g>
+      <image x="3635.2" y="4420.84" width="211.32" height="168.38" xlink:href="galaxybg_Images\galaxybg_ImgID136.png"/>
+     </g>
+     <path class="fil82" d="M3733.71 4546.09c-30.28,-13.48 -59.56,-60.26 -59.56,-60.26 -1.48,-3.46 -2.1,-6.7 -1.9,-9.8 -14.96,7.48 -23.92,18.62 -17.64,32.88 0,0 29.14,46.84 59.56,60.24 23.62,10.44 52.76,-10.02 65.68,-33.36 -13.9,11.06 -31.12,16.92 -46.14,10.3z"/>
+     <g>
+      <image x="3297.04" y="4547.13" width="169.04" height="168.4" xlink:href="galaxybg_Images\galaxybg_ImgID137.png"/>
+     </g>
+     <path class="fil83" d="M3392.66 4672.95l0 -0.02 0 -0.1c-0.1,-2.42 -1.86,-41.14 -15.32,-56.26 -10.8,-12.06 -35.92,-1.84 -52,13.62 12.42,-5.94 25.04,-7.28 31.9,0.42 13.82,15.6 15.3,56.3 15.3,56.3 -0.34,2.9 -1.12,5.5 -2.32,7.84 11.78,-3.04 21.24,-9.82 22.44,-21.8z"/>
+     <g>
+      <image x="84.54" y="3199.85" width="295.85" height="210.48" xlink:href="galaxybg_Images\galaxybg_ImgID138.png"/>
+     </g>
+     <path class="fil84" d="M258.43 3349.78c-51.3,5.42 -136.32,-16.1 -136.32,-16.1 -5.42,-1.96 -9.58,-4.16 -12.54,-6.76 -10.52,13.82 -9.82,27.5 12.9,35.48 0,0 84.96,21.6 136.32,16.02 39.86,-4.3 54.26,-36.06 45.44,-61.52 -5.36,16.3 -20.4,30.06 -45.8,32.88z"/>
+     <g>
+      <image x="16146.99" y="2105.15" width="169.06" height="168.4" xlink:href="galaxybg_Images\galaxybg_ImgID139.png"/>
+     </g>
+     <path class="fil85" d="M16196.7 2231.21c-3.46,-11.84 6.28,-38.24 6.28,-38.24 1,-1.84 2.04,-3.38 3.32,-4.72 -7.2,0.42 -13.98,3.6 -17.72,11.08 0,0 -9.72,26.38 -6.34,38.3 2.68,9.18 18.84,5.86 31.46,-1.96 -8.24,2.18 -15.3,1.4 -17,-4.46z"/>
+     <g>
+      <image x="9764.27" y="3873.49" width="253.59" height="168.4" xlink:href="galaxybg_Images\galaxybg_ImgID140.png"/>
+     </g>
+     <path class="fil86" d="M9902.59 4004.23c-36.82,3.88 -98.06,-11.5 -98.06,-11.5 -3.96,-1.48 -6.86,-3.02 -9.04,-4.94 -7.56,10.02 -6.98,19.76 9.32,25.54 0,0 61.1,15.54 98.06,11.58 28.66,-3.1 39.02,-26.04 32.74,-44.24 -3.94,11.64 -14.68,21.52 -33.02,23.56z"/>
+     <g>
+      <image x="9891.09" y="3999.81" width="169.06" height="126.28" xlink:href="galaxybg_Images\galaxybg_ImgID141.png"/>
+     </g>
+     <path class="fil87" d="M9975.47 4086.71c-25.4,2.76 -67.44,-7.9 -67.44,-7.9 -2.68,-0.98 -4.74,-2.12 -6.22,-3.38 -5.22,6.92 -4.86,13.62 6.36,17.56 0,0 41.98,10.66 67.44,7.98 19.76,-2.18 26.82,-17.86 22.52,-30.42 -2.68,7.98 -10.1,14.82 -22.66,16.16z"/>
+     <g>
+      <path class="fil10" d="M15096.09 4602.19c15.16,6.78 35.12,-12.14 36.18,-26.68l0.04 -0.58 0 -0.58 0 -0.58c-0.4,-11.76 -12.94,-21.8 -28.82,-23.16 -17.92,-1.54 -43.74,6.7 -37.26,21.46 0,0 14.62,23.42 29.86,30.12z"/>
+     </g>
+     <path class="fil88" d="M15104.89 4590.67c-15.18,-6.7 -29.84,-30.12 -29.84,-30.12 -0.72,-1.76 -1.06,-3.38 -0.92,-4.94 -7.48,3.74 -12,9.32 -8.9,16.44 0,0 14.68,23.5 29.84,30.2 11.86,5.22 26.54,-5.02 32.88,-16.72 -6.9,5.56 -15.52,8.46 -23.06,5.14z"/>
+     <g>
+      <path class="fil10" d="M16614.71 3103.61c0.28,-13.48 -27.3,-7.7 -42.48,4.1 -12.9,10 -18.48,25.96 -12.76,35.7 6.14,10.44 25.54,16.72 37.6,0.98 0,0 17.36,-27.3 17.64,-40.78z"/>
+     </g>
+     <path class="fil89" d="M16599.29 3108.83c-0.28,13.42 -17.64,40.72 -17.64,40.72 -1.42,1.84 -2.9,3.38 -4.52,4.66 6.92,0.7 14.54,-1.78 20.4,-9.4 0,0 17.42,-27.3 17.62,-40.78 0.22,-10.44 -16.36,-9.3 -30.96,-2.68 8.68,-1.12 15.24,0.78 15.1,7.48z"/>
+     <g>
+      <image x="18006.86" y="3915.59" width="253.57" height="168.4" xlink:href="galaxybg_Images\galaxybg_ImgID142.png"/>
+     </g>
+     <path class="fil90" d="M18140.26 4042.83c-33.94,-9.88 -73.16,-51.78 -73.16,-51.78 -2.26,-3.18 -3.46,-6.22 -3.82,-9.26 -14.1,8.62 -21.16,20.12 -12.06,33.18 0,0 39.16,42.04 73.24,51.84 26.46,7.7 52.76,-14.66 61.58,-38.3 -12.26,12 -29,19.18 -45.78,14.32z"/>
+     <g>
+      <image x="18049.12" y="4041.91" width="169.06" height="168.38" xlink:href="galaxybg_Images\galaxybg_ImgID143.png"/>
+     </g>
+     <path class="fil91" d="M18137.36 4166.86c-23.34,-6.84 -50.3,-35.64 -50.3,-35.64 -1.48,-2.18 -2.32,-4.3 -2.62,-6.34 -9.66,5.92 -14.6,13.82 -8.32,22.78 0,0 26.96,28.86 50.38,35.7 18.14,5.22 36.2,-10.16 42.34,-26.32 -8.4,8.2 -19.9,13.14 -31.48,9.82z"/>
+     <g>
+      <image x="19655.36" y="4420.84" width="169.06" height="168.38" xlink:href="galaxybg_Images\galaxybg_ImgID144.png"/>
+     </g>
+     <path class="fil92" d="M19720.94 4556.59c-21.24,-9.02 -42.32,-40.92 -42.32,-40.92 -1.06,-2.4 -1.56,-4.52 -1.5,-6.7 -10.22,5.3 -16.22,12.98 -11.64,22.72 0,0 20.96,31.96 42.28,40.92 16.42,6.98 36.46,-7.34 45,-23.5 -9.44,7.76 -21.3,11.94 -31.82,7.48z"/>
+     <g>
+      <image x="18345.01" y="2820.91" width="126.78" height="126.28" xlink:href="galaxybg_Images\galaxybg_ImgID145.png"/>
+     </g>
+     <path class="fil93" d="M18394.31 2915.51c-16.64,-3.74 -37.1,-22.16 -37.1,-22.16 -1.14,-1.4 -1.9,-2.74 -2.12,-4.16 -6.36,4.24 -9.32,9.74 -4.3,15.52 0,0 20.38,18.36 37.04,22.16 12.84,3.04 24.48,-7.9 27.66,-18.9 -5.36,5.78 -12.98,9.44 -21.18,7.54z"/>
+     <g>
+      <image x="18852.24" y="4041.91" width="126.78" height="126.28" xlink:href="galaxybg_Images\galaxybg_ImgID146.png"/>
+     </g>
+     <path class="fil94" d="M18892.92 4124.1c-12.9,-5.44 -25.74,-24.84 -25.74,-24.84 -0.64,-1.48 -0.92,-2.74 -0.86,-4.08 -6.28,3.24 -9.94,7.9 -7.12,13.82 0,0 12.7,19.48 25.76,24.9 9.94,4.32 22.14,-4.44 27.3,-14.24 -5.78,4.66 -12.98,7.2 -19.34,4.44z"/>
+     <g>
+      <image x="18894.52" y="4168.2" width="126.78" height="126.3" xlink:href="galaxybg_Images\galaxybg_ImgID147.png"/>
+     </g>
+     <path class="fil95" d="M18932.08 4271.78c-12.9,-5.44 -25.6,-24.84 -25.6,-24.84 -0.72,-1.48 -1,-2.82 -1,-4.16 -6.2,3.24 -9.88,7.96 -7.06,13.82 0,0 12.7,19.48 25.7,24.98 10.08,4.16 22.14,-4.52 27.44,-14.32 -5.78,4.72 -12.98,7.2 -19.48,4.52z"/>
+     <g>
+      <image x="19317.21" y="3873.49" width="169.06" height="126.28" xlink:href="galaxybg_Images\galaxybg_ImgID148.png"/>
+     </g>
+     <path class="fil96" d="M19384.97 3970.87c-12.98,-5.44 -25.76,-24.92 -25.76,-24.92 -0.62,-1.4 -0.92,-2.74 -0.92,-4.02 -6.2,3.18 -9.86,7.84 -7.04,13.84 0,0 12.7,19.32 25.68,24.9 10.08,4.16 22.14,-4.52 27.38,-14.32 -5.8,4.66 -13,7.2 -19.34,4.52z"/>
+     <g>
+      <image x="18302.73" y="4505.04" width="126.78" height="126.28" xlink:href="galaxybg_Images\galaxybg_ImgID149.png"/>
+     </g>
+     <path class="fil97" d="M18325.81 4605.35c-1.56,-11.58 10.66,-36.34 10.66,-36.34 1.06,-1.62 2.18,-3.04 3.52,-4.3 -6.56,-0.08 -13.12,2.54 -17.42,9.52 0,0 -12.36,24.76 -10.8,36.42 1.26,8.96 16.36,6.84 28.86,0.14 -7.7,1.54 -14.12,0.34 -14.82,-5.44z"/>
+     <g>
+      <image x="18260.48" y="4294.52" width="211.32" height="210.5" xlink:href="galaxybg_Images\galaxybg_ImgID150.png"/>
+     </g>
+     <path class="fil98" d="M18362.99 4401.66c16.22,24.7 9.88,85.3 9.88,85.3 -1.06,4.24 -2.62,7.98 -4.8,11.36 17.08,-3.24 31.68,-12.48 35.84,-30.12 0,0 6.5,-60.6 -9.88,-85.24 -12.56,-19.18 -49.94,-6.56 -75.7,14.76 18.62,-7.56 36.68,-8.18 44.66,3.94z"/>
+     <g>
+      <image x="17288.28" y="4505.04" width="169.04" height="126.28" xlink:href="galaxybg_Images\galaxybg_ImgID151.png"/>
+     </g>
+     <path class="fil99" d="M17350.9 4595.33c-11.14,-10.94 -14.4,-40.22 -14.4,-40.22 0.16,-2.12 0.5,-3.94 1.34,-5.64 -8.6,2.4 -15.3,7.62 -15.52,16.3 0,0 3.26,29.28 14.4,40.14 8.68,8.54 26.74,0.36 37.96,-11.22 -8.96,4.66 -18.28,5.94 -23.78,0.64z"/>
+     <g>
+      <image x="16865.57" y="3073.53" width="126.78" height="168.4" xlink:href="galaxybg_Images\galaxybg_ImgID152.png"/>
+     </g>
+     <path class="fil100" d="M16911.63 3186.73c-6.7,-12.2 -1.48,-41.28 -1.48,-41.28 0.64,-2.12 1.56,-3.88 2.68,-5.36 -8.12,1.2 -15.3,5.36 -17.92,13.76 0,0 -5.22,29.14 1.48,41.34 5.16,9.54 23.08,4.1 35.92,-5.7 -9.04,3.3 -17.44,3.3 -20.68,-2.76z"/>
+     <g>
+      <path class="fil10" d="M16256.9 3135.47c-19.26,-16.14 -60.24,11.16 -70.12,36.42 -8.4,21.52 5,44.58 29.56,51.92 26.32,7.9 70.14,0.86 68.72,-26.88 0,0 -8.88,-45.3 -28.16,-61.46z"/>
+     </g>
+     <path class="fil101" d="M16236.92 3153.07c19.26,16.24 28.22,61.52 28.22,61.52 0.14,3.26 -0.36,6.22 -1.4,8.9 13.46,-4.44 23.48,-12.92 22.86,-26.38 0,0 -8.9,-45.24 -28.24,-61.4 -15.02,-12.62 -43.02,1.14 -59.4,19.76 13.68,-7.76 28.44,-10.36 37.96,-2.4z"/>
+     <g>
+      <path class="fil10" d="M16104.81 3279.64c4.38,12.42 31.62,2.34 43.6,-11.14 10.1,-11.5 10.52,-27.1 1.14,-35.06 -10.16,-8.48 -32.82,-10.8 -40.28,5.86 0,0 -8.82,28 -4.46,40.34z"/>
+     </g>
+     <path class="fil102" d="M16119.31 3272.24c-4.38,-12.42 4.6,-40.5 4.6,-40.5 0.9,-1.92 1.9,-3.54 3.16,-5.02 -7.62,0.56 -14.82,4.16 -18.34,12.22 0,0 -8.96,28 -4.52,40.42 3.32,9.6 20.54,5.64 33.74,-2.96 -8.76,2.54 -16.44,1.98 -18.64,-4.16z"/>
+     <g>
+      <image x="15682.04" y="4294.52" width="169.04" height="126.28" xlink:href="galaxybg_Images\galaxybg_ImgID153.png"/>
+     </g>
+     <path class="fil103" d="M15759.63 4405.2c-13.84,-2.26 -32.04,-15.74 -32.04,-15.74 -1.06,-1.12 -1.76,-2.12 -2.12,-3.18 -4.8,3.6 -6.78,7.98 -2.26,12.28 0,0 18.2,13.54 32.04,15.8 10.8,1.76 19.32,-7.2 21.02,-15.94 -3.8,4.72 -9.74,7.9 -16.64,6.78z"/>
+     <g>
+      <image x="15682.04" y="4378.72" width="169.04" height="168.4" xlink:href="galaxybg_Images\galaxybg_ImgID154.png"/>
+     </g>
+     <path class="fil104" d="M15746.57 4496.92c-14.18,-7.34 -26.52,-31.34 -26.52,-31.34 -0.64,-1.82 -0.78,-3.52 -0.58,-5 -7.48,3.46 -12.34,8.88 -9.8,16.16 0,0 12.28,24.06 26.46,31.4 11.08,5.7 26.1,-3.96 33.22,-15.46 -7.18,5.36 -15.8,7.9 -22.78,4.24z"/>
+     <g>
+      <image x="15766.57" y="4631.35" width="169.04" height="126.28" xlink:href="galaxybg_Images\galaxybg_ImgID155.png"/>
+     </g>
+     <path class="fil105" d="M15834.77 4733.41c-11.44,-8.82 -17.86,-34.08 -17.86,-34.08 -0.14,-1.84 0,-3.46 0.56,-5 -7.62,2.68 -13.04,7.54 -12.26,15.08 0,0 6.28,25.26 17.84,34.02 8.82,6.84 24.56,-1.28 33.44,-11.92 -7.62,4.5 -16.02,6.2 -21.72,1.9z"/>
+     <g>
+      <image x="15851.11" y="4462.94" width="126.78" height="126.28" xlink:href="galaxybg_Images\galaxybg_ImgID156.png"/>
+     </g>
+     <path class="fil106" d="M15909.41 4565.91c-7.06,-5.36 -10.94,-20.68 -10.94,-20.68 -0.06,-1.2 0,-2.12 0.36,-3.02 -4.66,1.62 -7.98,4.58 -7.48,9.1 0,0 3.8,15.38 10.86,20.74 5.36,4.16 14.96,-0.78 20.32,-7.26 -4.66,2.74 -9.74,3.8 -13.12,1.12z"/>
+     <g>
+      <image x="15851.11" y="4589.23" width="126.78" height="126.3" xlink:href="galaxybg_Images\galaxybg_ImgID157.png"/>
+     </g>
+     <path class="fil107" d="M15902.29 4676.33c-6.92,-5.3 -10.8,-20.68 -10.8,-20.68 -0.14,-1.12 0,-2.12 0.28,-3.02 -4.58,1.62 -7.98,4.58 -7.4,9.16 0,0 3.8,15.38 10.78,20.74 5.44,4.1 14.96,-0.76 20.32,-7.34 -4.64,2.76 -9.66,3.82 -13.18,1.14z"/>
+     <g>
+      <image x="16442.88" y="4547.13" width="126.78" height="126.3" xlink:href="galaxybg_Images\galaxybg_ImgID158.png"/>
+     </g>
+     <path class="fil108" d="M16492.96 4628.57c-6.84,-5.36 -10.44,-20.82 -10.44,-20.82 -0.06,-1.14 0.08,-2.12 0.42,-3.1 -4.64,1.62 -8.04,4.58 -7.62,9.16 0,0 3.54,15.46 10.44,20.9 5.3,4.22 14.9,-0.64 20.4,-7.14 -4.66,2.76 -9.74,3.68 -13.2,1z"/>
+     <g>
+      <image x="16569.7" y="4505.04" width="126.78" height="126.28" xlink:href="galaxybg_Images\galaxybg_ImgID159.png"/>
+     </g>
+     <path class="fil109" d="M16595.33 4616.99c-9.46,-7.4 -14.4,-28.64 -14.4,-28.64 -0.14,-1.56 0,-2.9 0.5,-4.24 -6.34,2.18 -11,6.28 -10.44,12.64 0,0 4.86,21.22 14.4,28.64 7.26,5.86 20.46,-0.84 28.08,-9.8 -6.56,3.8 -13.48,5.14 -18.14,1.4z"/>
+     <g>
+      <image x="16485.16" y="2189.37" width="169.04" height="126.28" xlink:href="galaxybg_Images\galaxybg_ImgID160.png"/>
+     </g>
+     <path class="fil110" d="M16576.72 2279.61c-20.4,1.92 -53.84,-7.26 -53.84,-7.26 -2.18,-0.84 -3.8,-1.84 -4.94,-2.82 -4.38,5.5 -4.22,11 4.66,14.32 0,0 33.44,9.24 53.9,7.26 15.88,-1.48 21.94,-14.1 18.78,-24.34 -2.34,6.42 -8.48,11.92 -18.56,12.84z"/>
+     <g>
+      <image x="13610.82" y="3494.56" width="253.57" height="252.59" xlink:href="galaxybg_Images\galaxybg_ImgID161.png"/>
+     </g>
+     <path class="fil111" d="M13698.1 3687.01c-17.7,-40.84 -3.94,-113.66 -3.94,-113.66 1.62,-4.8 4.02,-8.54 7.06,-11.42 -21.6,-6.28 -40.64,-3.4 -47.42,16.36 0,0 -13.82,72.82 3.88,113.74 13.82,31.82 61.32,38.24 95.26,26.88 -23.86,-1.7 -46.08,-11.64 -54.84,-31.9z"/>
+     <g>
+      <image x="14118.05" y="3073.53" width="169.06" height="168.4" xlink:href="galaxybg_Images\galaxybg_ImgID162.png"/>
+     </g>
+     <path class="fil112" d="M14197.49 3177.27c-0.5,20.82 -27.02,51.72 -27.02,51.72 -2.18,1.98 -4.44,3.32 -6.98,4.16 10.72,5.8 22.28,7.2 31.24,-0.78 0,0 26.68,-30.9 27.04,-51.78 0.28,-16.22 -25.12,-25.68 -47.42,-25.32 13.12,4.08 23.28,11.64 23.14,22z"/>
+     <g>
+      <path class="fil10" d="M14081.45 3882.39c17.08,24.62 58.2,17.08 69.5,-2.82 9.6,-17 -1.42,-45.58 -24.14,-64.06 -24.4,-19.84 -66.66,-33.24 -67.44,-5.8 0,0 5,48.06 22.08,72.68z"/>
+     </g>
+     <path class="fil113" d="M14101.75 3874.55c-17.08,-24.54 -22.08,-72.66 -22.08,-72.66 0.14,-3.18 0.76,-5.86 1.96,-7.98 -13.18,-2.04 -23.34,1.62 -23.7,14.96 0,0 5.02,48.04 22.08,72.68 13.2,19.12 41,18.76 58.08,8.32 -13.7,1.12 -27.88,-3.18 -36.34,-15.32z"/>
+     <g>
+      <image x="15386.14" y="2905.11" width="169.04" height="210.5" xlink:href="galaxybg_Images\galaxybg_ImgID163.png"/>
+     </g>
+     <path class="fil114" d="M15460.2 3063.47c-27.52,-20.54 -59.42,-69.42 -59.42,-69.42 -1.76,-3.46 -2.82,-6.36 -3.02,-9.04 -11.5,2.12 -17.3,9.1 -9.82,23.22 0,0 31.82,48.96 59.48,69.42 21.46,15.88 42.84,6.84 50.02,-9.6 -10.02,5.58 -23.56,5.5 -37.24,-4.58z"/>
+     <g>
+      <path class="fil10" d="M14574.06 3859.17c18.98,14.1 38.02,-0.14 36.04,-17.08 -1.68,-14.32 -18.98,-32.6 -38.58,-41.06 -20.96,-9.04 -48.9,-9.52 -38.32,10.44 0,0 21.88,33.58 40.86,47.7z"/>
+     </g>
+     <path class="fil115" d="M14581.8 3849.09c-18.98,-14.04 -40.86,-47.64 -40.86,-47.64 -1.26,-2.38 -1.96,-4.36 -2.18,-6.2 -7.84,1.42 -11.86,6.2 -6.64,15.94 0,0 21.8,33.6 40.86,47.7 14.74,10.94 29.42,4.66 34.36,-6.56 -6.84,3.74 -16.16,3.74 -25.54,-3.24z"/>
+     <g>
+      <image x="13737.62" y="3578.78" width="126.78" height="126.28" xlink:href="galaxybg_Images\galaxybg_ImgID164.png"/>
+     </g>
+     <path class="fil116" d="M13771.98 3643.5c5.44,10.44 3.74,29.7 3.74,29.7 -0.36,1.26 -0.78,2.26 -1.48,3.04 5.5,1.34 10.22,0.42 11.42,-4.94 0,0 1.78,-19.2 -3.74,-29.7 -4.16,-8.12 -16.22,-9.18 -24.4,-5.8 6,0.22 11.78,2.48 14.46,7.7z"/>
+     <g>
+      <image x="13441.75" y="3662.97" width="169.04" height="168.4" xlink:href="galaxybg_Images\galaxybg_ImgID165.png"/>
+     </g>
+     <path class="fil117" d="M13500.15 3795.61c-10.24,-23.64 -2.34,-65.7 -2.34,-65.7 0.98,-2.74 2.4,-4.94 4.1,-6.56 -12.36,-3.6 -23.44,-1.98 -27.38,9.46 0,0 -7.98,42.06 2.32,65.68 7.9,18.36 35.36,22.1 54.96,15.52 -13.82,-0.98 -26.58,-6.76 -31.66,-18.4z"/>
+     <g>
+      <image x="13779.9" y="2820.91" width="126.78" height="126.28" xlink:href="galaxybg_Images\galaxybg_ImgID166.png"/>
+     </g>
+     <path class="fil118" d="M13813.6 2922.85c5.52,-10.94 30.56,-23.78 30.56,-23.78 1.9,-0.7 3.8,-1.12 5.58,-1.26 -5.52,-4.52 -12.7,-6.84 -20.46,-3.82 0,0 -25.12,12.78 -30.62,23.86 -4.38,8.52 9.8,17 24.4,19.82 -7.54,-3.88 -12.2,-9.32 -9.46,-14.82z"/>
+     <g>
+      <image x="13610.82" y="2820.91" width="169.04" height="126.28" xlink:href="galaxybg_Images\galaxybg_ImgID167.png"/>
+     </g>
+     <path class="fil119" d="M13660 2897.23c14.2,-10.5 56.32,-16.72 56.32,-16.72 3.1,-0.2 5.92,-0.06 8.52,0.36 -4.92,-6.78 -13.54,-11.64 -26.16,-10.72 0,0 -42.2,6.14 -56.3,16.72 -11.02,8.12 3.52,22.08 22.08,29.78 -8.12,-6.78 -11.36,-14.26 -4.46,-19.42z"/>
+     <g>
+      <path class="fil10" d="M14889.51 4332.16c7.48,10.94 25.82,7.7 30.9,-1.12 4.38,-7.48 -0.36,-20.18 -10.44,-28.36 -10.72,-8.82 -29.5,-14.9 -29.98,-2.76 0,0 2.04,21.32 9.52,32.24z"/>
+     </g>
+     <path class="fil120" d="M14898.59 4328.72c-7.48,-10.94 -9.46,-32.26 -9.46,-32.26 0.06,-1.4 0.28,-2.54 0.92,-3.52 -5.86,-0.84 -10.44,0.7 -10.66,6.64 0,0 1.98,21.22 9.52,32.24 5.72,8.46 18.14,8.4 25.76,3.8 -6.06,0.42 -12.34,-1.48 -16.08,-6.9z"/>
+     <g>
+      <path class="fil10" d="M14897.57 4389.46c1.62,3.6 5.8,5.22 10.06,5.26l0.38 0c3.64,-0.06 7.28,-1.24 9.38,-3.28 3.88,-3.88 2.84,-11.44 -2.32,-16.86 -5.5,-5.86 -16.44,-10.88 -18.62,-4.1 0,0 -1.98,12.2 1.12,18.98z"/>
+     </g>
+     <path class="fil121" d="M14903.87 4388.26c-3.1,-6.78 -1.12,-18.9 -1.12,-18.9 0.28,-0.78 0.62,-1.42 1.12,-1.92 -3.52,-0.98 -6.7,-0.48 -7.68,2.82 0,0 -2.06,12.14 1.06,18.98 2.32,5.22 10.22,6.22 15.72,4.24 -3.88,-0.22 -7.62,-1.84 -9.1,-5.22z"/>
+     <g>
+      <image x="13737.62" y="2484.08" width="169.06" height="126.3" xlink:href="galaxybg_Images\galaxybg_ImgID168.png"/>
+     </g>
+     <path class="fil122" d="M13821.94 2584.4c-16.3,-12.48 -34.64,-41.9 -34.64,-41.9 -1.06,-2.04 -1.64,-3.88 -1.78,-5.44 -6.9,1.14 -10.5,5.22 -6.2,13.76 0,0 18.28,29.42 34.64,41.84 12.64,9.66 25.68,4.52 30.26,-5.14 -5.98,3.16 -14.24,2.96 -22.28,-3.12z"/>
+     <g>
+      <image x="10144.7" y="4336.62" width="169.06" height="168.4" xlink:href="galaxybg_Images\galaxybg_ImgID169.png"/>
+     </g>
+     <path class="fil123" d="M10236.6 4443.02c-22.16,8.66 -66.9,12.4 -66.9,12.4 -3.02,0 -5.5,-0.2 -7.54,-0.76 -1.28,6.34 2.68,11 15.16,10.86 0,0 44.74,-3.68 66.96,-12.48 17.22,-6.78 15.52,-19.9 4.88,-27.66 1.76,6.42 -1.64,13.26 -12.56,17.64z"/>
+     <g>
+      <image x="11539.61" y="2736.7" width="169.04" height="168.4" xlink:href="galaxybg_Images\galaxybg_ImgID170.png"/>
+     </g>
+     <path class="fil124" d="M11634.63 2817.93c-0.72,17.64 -23.92,53.14 -23.92,53.14 -1.92,2.4 -3.82,4.36 -6,6 9.02,0.98 18.9,-2.12 26.74,-12 0,0 23.28,-35.56 23.92,-53.2 0.56,-13.7 -21.1,-12.34 -40.16,-3.96 11.16,-1.34 19.76,1.28 19.42,10.02z"/>
+     <g>
+      <image x="23924.6" y="1473.61" width="169.04" height="168.4" xlink:href="galaxybg_Images\galaxybg_ImgID171.png"/>
+     </g>
+     <path class="fil125" d="M23952.56 1538.02c27.02,10.66 75.42,49.96 75.42,49.96 3.18,2.88 5.64,5.64 7.62,8.32 4.02,-6.78 1.98,-16.58 -11.14,-28.64 0,0 -48.42,-39.3 -75.5,-49.96 -20.96,-8.32 -24.98,10.02 -17.22,30.34 0.98,-9.96 7.48,-15.38 20.82,-10.02z"/>
+     <g>
+      <image x="10271.52" y="4462.94" width="169.04" height="168.38" xlink:href="galaxybg_Images\galaxybg_ImgID172.png"/>
+     </g>
+     <path class="fil126" d="M10300.86 4569.87c13.98,-21.38 62.1,-56.1 62.1,-56.1 3.6,-2.18 6.84,-3.82 10.08,-5.02 -7.54,-4.64 -18.98,-4.64 -33.58,4.52 0,0 -48.18,34.58 -62.16,56.02 -10.8,16.58 9.96,23.28 33.8,20.26 -11.28,-2.62 -17.14,-9.18 -10.24,-19.68z"/>
+     <g>
+      <image x="19824.44" y="2484.08" width="211.34" height="210.5" xlink:href="galaxybg_Images\galaxybg_ImgID173.png"/>
+     </g>
+     <path class="fil127" d="M19911.44 2565.5c18.42,33.02 25.96,95.32 25.96,95.32 0,4.16 -0.48,7.4 -1.54,10.16 13.26,3.52 23.28,-0.36 23,-17.42 0,0 -7.48,-62.24 -26.04,-95.32 -14.24,-25.62 -42.12,-27.46 -58.7,-15.32 13.62,-0.36 28.22,6.34 37.32,22.58z"/>
+     <g>
+      <image x="12892.24" y="1515.7" width="253.57" height="294.71" xlink:href="galaxybg_Images\galaxybg_ImgID174.png"/>
+     </g>
+     <path class="fil128" d="M12952.14 1729.16c8.18,-42.7 74.08,-124.54 74.08,-124.54 5.3,-5.58 10.66,-10.02 16.02,-13.54 -20.24,-4.1 -43.96,1.54 -65.32,24.26 0,0 -66.2,81.86 -74.1,124.6 -6.28,33.16 43.32,33.94 89.9,17.02 -26.04,1.34 -44.52,-6.72 -40.58,-27.8z"/>
+     <g>
+      <image x="12511.81" y="2273.57" width="169.04" height="168.4" xlink:href="galaxybg_Images\galaxybg_ImgID175.png"/>
+     </g>
+     <path class="fil129" d="M12541.53 2409.36c9.66,-25.4 56.44,-70.92 56.44,-70.92 3.66,-2.96 6.98,-5.28 10.5,-7.12 -10.72,-3.74 -24.62,-1.84 -39.3,10.66 0,0 -46.76,45.44 -56.44,70.9 -7.68,19.62 19.9,23.28 47.84,15.88 -14.6,-0.84 -23.92,-6.84 -19.04,-19.4z"/>
+     <g>
+      <image x="13864.44" y="1810.44" width="253.57" height="252.59" xlink:href="galaxybg_Images\galaxybg_ImgID176.png"/>
+     </g>
+     <path class="fil130" d="M14023.71 1927.7c-3.88,36.96 -56.22,109.86 -56.22,109.86 -4.24,4.86 -8.62,8.88 -13.2,12.2 18.34,2.68 38.94,-3.1 56.3,-23.42 0,0 52.42,-72.76 56.24,-109.72 3.02,-28.72 -41.22,-27.52 -81.36,-11.14 23,-2.12 40.14,4.08 38.24,22.22z"/>
+     <g>
+      <image x="12427.27" y="2694.6" width="253.57" height="252.59" xlink:href="galaxybg_Images\galaxybg_ImgID177.png"/>
+     </g>
+     <path class="fil131" d="M12488.67 2878.27c16.1,-41.78 92.92,-116.64 92.92,-116.64 5.94,-4.86 11.58,-8.74 17.3,-11.78 -17.72,-6.06 -40.36,-2.9 -64.5,17.5 0,0 -77.04,74.78 -92.98,116.56 -12.56,32.38 32.74,38.38 78.66,26.32 -23.92,-1.48 -39.3,-11.36 -31.4,-31.96z"/>
+     <g>
+      <image x="2874.33" y="4673.45" width="211.32" height="168.38" xlink:href="galaxybg_Images\galaxybg_ImgID178.png"/>
+     </g>
+     <path class="fil132" d="M2935.61 4806.57c2.96,-21.02 34.14,-62.02 34.14,-62.02 2.48,-2.74 4.88,-5 7.62,-6.76 -10.22,-1.78 -21.94,1.26 -32.18,12.7 0,0 -31.04,40.92 -34.06,62.02 -2.4,16.28 22.5,16.14 45.42,7.26 -12.98,0.92 -22.42,-2.76 -20.94,-13.2z"/>
+     <g>
+      <image x="12469.53" y="1684.12" width="211.32" height="168.4" xlink:href="galaxybg_Images\galaxybg_ImgID179.png"/>
+     </g>
+     <path class="fil133" d="M12508.29 1814.6c9.74,-25.34 56.44,-70.84 56.44,-70.84 3.6,-3.04 7,-5.36 10.52,-7.2 -10.8,-3.74 -24.62,-1.76 -39.24,10.66 0,0 -46.92,45.44 -56.58,70.9 -7.62,19.62 19.98,23.28 47.92,15.88 -14.62,-0.84 -23.92,-6.84 -19.06,-19.4z"/>
+     <g>
+      <image x="12723.16" y="2694.6" width="169.04" height="210.5" xlink:href="galaxybg_Images\galaxybg_ImgID180.png"/>
+     </g>
+     <path class="fil134" d="M12757.12 2848.07c9.68,-25.34 56.52,-70.84 56.52,-70.84 3.6,-3.04 7.06,-5.36 10.44,-7.2 -10.64,-3.68 -24.48,-1.76 -39.22,10.72 0,0 -46.78,45.36 -56.52,70.84 -7.54,19.68 19.9,23.28 47.92,16.02 -14.54,-1 -23.92,-6.92 -19.14,-19.54z"/>
+     <g>
+      <image x="12554.07" y="3073.53" width="126.78" height="126.28" xlink:href="galaxybg_Images\galaxybg_ImgID181.png"/>
+     </g>
+     <path class="fil135" d="M12589.35 3182.15c-3.38,-11.86 6.36,-38.24 6.36,-38.24 0.92,-1.84 2.04,-3.4 3.24,-4.74 -7.12,0.42 -13.96,3.6 -17.64,11.08 0,0 -9.8,26.38 -6.34,38.32 2.6,9.16 18.76,5.84 31.46,-1.98 -8.26,2.18 -15.3,1.4 -17.08,-4.44z"/>
+     <g>
+      <image x="12258.2" y="3073.53" width="169.04" height="210.5" xlink:href="galaxybg_Images\galaxybg_ImgID182.png"/>
+     </g>
+     <path class="fil136" d="M12290.69 3223.85c4.16,-21.96 38.1,-64.08 38.1,-64.08 2.68,-2.82 5.44,-5.14 8.2,-6.9 -10.38,-2.12 -22.58,0.76 -33.6,12.42 0,0 -34,42.12 -38.02,64.06 -3.24,17 22.22,17.42 46.14,8.74 -13.34,0.64 -22.86,-3.46 -20.82,-14.24z"/>
+     <g>
+      <image x="12427.27" y="3578.78" width="169.04" height="168.38" xlink:href="galaxybg_Images\galaxybg_ImgID183.png"/>
+     </g>
+     <path class="fil137" d="M12480.91 3714.81c6.64,-17.56 38.96,-48.96 38.96,-48.96 2.54,-2.04 4.78,-3.66 7.26,-4.94 -7.4,-2.54 -17,-1.26 -27.1,7.34 0,0 -32.3,31.32 -39.02,48.96 -5.28,13.56 13.76,16.1 33.02,10.94 -10.02,-0.56 -16.5,-4.72 -13.12,-13.34z"/>
+     <g>
+      <path class="fil10" d="M12097.3 4098.32c-11.02,28.78 43.74,27.52 80.56,8.18 31.26,-16.36 53.98,-48.4 51.24,-71.68 -2.9,-24.84 -33.32,-45.86 -67.82,-16.86 0,0 -52.98,51.64 -63.98,80.36z"/>
+     </g>
+     <path class="fil138" d="M12129.34 4093.34c11.08,-28.78 64.14,-80.44 64.14,-80.44 4.1,-3.38 7.98,-6.06 11.92,-8.18 -12.2,-4.16 -27.86,-1.98 -44.44,12.06 0,0 -53.2,51.66 -64.28,80.44 -8.6,22.36 22.64,26.46 54.32,18.2 -16.5,-1.06 -27.08,-7.9 -21.66,-22.08z"/>
+     <g>
+      <image x="12342.73" y="4420.84" width="169.04" height="168.38" xlink:href="galaxybg_Images\galaxybg_ImgID184.png"/>
+     </g>
+     <path class="fil139" d="M12384.53 4535.15c6.64,-17.5 38.96,-48.9 38.96,-48.9 2.46,-2.12 4.86,-3.74 7.26,-5 -7.4,-2.54 -16.94,-1.2 -27.1,7.4 0,0 -32.3,31.32 -39.08,48.9 -5.16,13.62 13.82,16.08 33.08,11 -10,-0.64 -16.5,-4.72 -13.12,-13.4z"/>
+     <g>
+      <image x="13737.62" y="1515.7" width="169.06" height="126.3" xlink:href="galaxybg_Images\galaxybg_ImgID185.png"/>
+     </g>
+     <path class="fil140" d="M13779.6 1607.16c5.08,-13.06 29.14,-36.4 29.14,-36.4 1.76,-1.56 3.52,-2.76 5.36,-3.68 -5.5,-1.96 -12.62,-0.98 -20.18,5.44 0,0 -24.06,23.36 -29.06,36.48 -3.88,10.02 10.22,11.92 24.62,8.18 -7.48,-0.5 -12.28,-3.6 -9.88,-10.02z"/>
+     <g>
+      <image x="20458.48" y="3284.04" width="253.59" height="210.5" xlink:href="galaxybg_Images\galaxybg_ImgID186.png"/>
+     </g>
+     <path class="fil141" d="M20519.62 3418.22c37.52,-25.12 126.14,-52.36 126.14,-52.36 6.22,-1.48 11.58,-2.26 16.3,-2.32 -3.38,-11.16 -15.8,-17.16 -41.42,-10.94 0,0 -88.54,27.22 -126,52.28 -29.22,19.54 -13.56,40.7 15.66,48.68 -9.52,-9.94 -9.1,-22.94 9.32,-35.34z"/>
+     <g>
+      <image x="21811.11" y="2947.21" width="211.32" height="168.4" xlink:href="galaxybg_Images\galaxybg_ImgID187.png"/>
+     </g>
+     <path class="fil142" d="M21934.85 3056.55c-28.92,10.86 -86.5,14.4 -86.5,14.4 -3.8,-0.08 -6.98,-0.42 -9.58,-1.2 -1.92,8.18 2.82,14.4 18.9,14.54 0,0 57.58,-3.46 86.5,-14.34 22.44,-8.32 20.96,-25.54 7.76,-36.04 1.84,8.46 -2.76,17.36 -17.08,22.64z"/>
+     <g>
+      <image x="20754.38" y="2820.91" width="338.13" height="210.5" xlink:href="galaxybg_Images\galaxybg_ImgID188.png"/>
+     </g>
+     <path class="fil143" d="M20982.95 2928.07c-55.54,38.32 -187.96,81.08 -187.96,81.08 -9.26,2.38 -17.36,3.8 -24.5,4.02 5.8,16.44 24.56,25.12 63.02,15.24 0,0 132.64,-42.84 187.96,-81.14 43.04,-29.86 18.26,-61.04 -26.32,-72.26 15.1,14.54 15.16,33.94 -12.2,53.06z"/>
+     <g>
+      <image x="20289.41" y="2231.47" width="126.78" height="84.18" xlink:href="galaxybg_Images\galaxybg_ImgID189.png"/>
+     </g>
+     <path class="fil144" d="M20344.09 2286.67c-9.88,6.92 -33.52,14.54 -33.52,14.54 -1.7,0.42 -3.1,0.64 -4.38,0.7 1.06,2.96 4.38,4.52 11.3,2.68 0,0 23.62,-7.62 33.5,-14.46 7.7,-5.3 3.32,-10.86 -4.66,-12.84 2.68,2.6 2.68,6 -2.24,9.38z"/>
+     <g>
+      <image x="22276.08" y="2568.3" width="169.06" height="126.28" xlink:href="galaxybg_Images\galaxybg_ImgID190.png"/>
+     </g>
+     <path class="fil145" d="M22358.6 2636.06c-20.24,14.04 -68.72,29.7 -68.72,29.7 -3.46,0.92 -6.28,1.34 -8.96,1.48 2.04,6 8.96,9.24 23,5.58 0,0 48.54,-15.68 68.86,-29.72 15.8,-10.92 6.7,-22.28 -9.6,-26.44 5.44,5.36 5.52,12.4 -4.58,19.4z"/>
+     <g>
+      <image x="16781.03" y="3031.43" width="126.78" height="168.38" xlink:href="galaxybg_Images\galaxybg_ImgID191.png"/>
+     </g>
+     <path class="fil146" d="M16823.79 3123.15c8.96,10.1 9.88,36.42 9.88,36.42 -0.22,1.82 -0.7,3.52 -1.48,5.08 7.62,-1.98 13.68,-6.42 14.46,-14.12 0,0 -0.92,-26.32 -9.88,-36.4 -6.98,-7.84 -23.2,-1.2 -33.58,8.74 8.04,-3.8 16.16,-4.72 20.6,0.28z"/>
+     <g>
+      <image x="16358.34" y="3957.69" width="126.78" height="126.3" xlink:href="galaxybg_Images\galaxybg_ImgID192.png"/>
+     </g>
+     <path class="fil147" d="M16385.3 4072.95l0.36 0c7.36,-0.24 14.58,-3.42 18.9,-11.36 0,0 12,-28.08 9.1,-40.98 -2.12,-10.02 -19.34,-6.98 -33.08,1.06 8.74,-2.12 16.14,-1.06 17.56,5.36 2.82,12.84 -9.18,40.98 -9.18,40.98 -1.06,1.98 -2.18,3.6 -3.66,4.94z"/>
+     <g>
+      <image x="16020.19" y="4210.32" width="253.57" height="252.59" xlink:href="galaxybg_Images\galaxybg_ImgID193.png"/>
+     </g>
+     <g>
+      <image x="20078.07" y="4294.52" width="211.32" height="168.4" xlink:href="galaxybg_Images\galaxybg_ImgID194.png"/>
+     </g>
+     <path class="fil148" d="M20197.97 4387.98c-25.62,17.78 -87,37.68 -87,37.68 -4.3,1.06 -7.98,1.68 -11.36,1.82 2.6,7.56 11.36,11.72 29.2,7 0,0 61.46,-19.76 87.14,-37.62 19.96,-13.76 8.46,-28.14 -12.2,-33.44 6.98,6.84 7.06,15.74 -5.78,24.56z"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
