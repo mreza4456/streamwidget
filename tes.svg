@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="89.2873mm" height="49.7465mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 3397.14 1892.72"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#141E2C;stroke-width:107.38;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10}
+    .str1 {stroke:#141E2C;stroke-width:67.11;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10}
+    .fil1 {fill:none;fill-rule:nonzero}
+    .fil0 {fill:url(#id0);fill-rule:nonzero;fill-opacity:0.800000}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="1698.57" y1="1839.06" x2="1698.57" y2="53.69">
+   <stop offset="0" style="stop-opacity:1; stop-color:#3180BB"/>
+   <stop offset="0.568627" style="stop-opacity:1; stop-color:#192735"/>
+   <stop offset="0.94902" style="stop-opacity:1; stop-color:#192735"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#192735"/>
+  </linearGradient>
+ </defs>
+ <g id="__x0023_Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1372295136016">
+   <g>
+    <path class="fil0" d="M1698.57 53.69c-968.68,0 -1644.88,521.53 -1644.88,1004.94 0,143.34 81.21,263.12 227.57,358.5l-100.5 391.3c-4.98,19.75 14.86,36.64 33.56,28.57l546.62 -235.73c259.25,58.81 578.28,88.79 937.63,88.79 968.68,0 1644.88,-217.68 1644.88,-631.43 0,-516.31 -676.2,-1004.94 -1644.88,-1004.94z"/>
+   </g>
+   <path class="fil1 str0" d="M1698.57 53.69c-968.68,0 -1644.88,521.53 -1644.88,1004.94 0,143.34 81.21,263.12 227.57,358.5"/>
+   <line class="fil1 str0" x1="281.26" y1="1417.13" x2="180.76" y2= "1808.43" />
+   <path class="fil1 str0" d="M180.76 1808.43c-4.98,19.75 14.86,36.64 33.56,28.57"/>
+   <line class="fil1 str0" x1="214.32" y1="1837" x2="760.94" y2= "1601.27" />
+   <path class="fil1 str0" d="M760.94 1601.27c259.25,58.81 578.28,88.79 937.63,88.79 968.68,0 1644.88,-217.68 1644.88,-631.43 0,-516.31 -676.2,-1004.94 -1644.88,-1004.94"/>
+   <line class="fil1 str1" x1="281.26" y1="1417.13" x2="180.76" y2= "1808.43" />
+   <path class="fil1 str1" d="M180.76 1808.43c-4.98,19.75 14.86,36.64 33.56,28.57"/>
+   <line class="fil1 str1" x1="214.32" y1="1837" x2="760.94" y2= "1601.27" />
+   <path class="fil1 str1" d="M760.94 1601.27c259.25,58.81 578.28,88.79 937.63,88.79 968.68,0 1644.88,-217.68 1644.88,-631.43 0,-516.31 -676.2,-1004.94 -1644.88,-1004.94"/>
+  </g>
+ </g>
+</svg>
